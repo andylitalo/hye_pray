@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Xcode
+ios/HyePray/HyePray.xcodeproj/project.xcworkspace/
+ios/HyePray/HyePray.xcodeproj/xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+
+# Generated (can be rebuilt)
+pipeline/source_pdfs/
