@@ -2,6 +2,8 @@
 
 Armenian prayer and devotional application.
 
+Two client apps share the same SQLite database: a **native SwiftUI iOS app** (`ios/`) and a **cross-platform Expo (React Native) app** (`app/`).
+
 ## Demo
 
 This is a demo version with three services parsed from PDF prayer books:
@@ -20,14 +22,61 @@ This is a demo version with three services parsed from PDF prayer books:
 - **Role-based styling**: Priest (blue), Deacon (green), Congregation, Rubrics (red)
 - **Adjustable text size**
 
+## Project Structure
+
+```
+hye_pray/
+├── pipeline/                         # Content pipeline (PDF → JSON → SQLite)
+│   ├── parse_pdfs.py                 # PDF → structured JSON parser
+│   ├── build_db.py                   # JSON → SQLite database builder
+│   ├── content/                      # Generated JSON content files
+│   └── source_pdfs/                  # Source PDF prayer books (not committed)
+├── ios/                              # Native SwiftUI iOS app
+│   └── HyePray/
+│       ├── project.yml               # XcodeGen project definition
+│       ├── HyePray/
+│       │   ├── HyePrayApp.swift
+│       │   ├── Models/               # Data models (AppState, Models)
+│       │   ├── Database/             # SQLite reader (DatabaseManager)
+│       │   ├── Views/                # SwiftUI views
+│       │   │   ├── ContentView.swift
+│       │   │   ├── SidebarView.swift
+│       │   │   ├── ServiceReaderView.swift
+│       │   │   ├── SettingsPanel.swift
+│       │   │   └── Components/       # ChunkView, SectionHeaderView
+│       │   └── Resources/            # SQLite DB + asset catalog
+│       └── HyePray.xcodeproj/
+└── app/                              # Cross-platform Expo (React Native) app
+    ├── app.json                      # Expo config
+    ├── package.json
+    ├── app/                          # expo-router file-based routes
+    │   ├── _layout.tsx               # Root stack layout
+    │   ├── settings.tsx              # Settings modal
+    │   ├── (drawer)/                 # Drawer navigation
+    │   │   ├── _layout.tsx
+    │   │   └── index.tsx             # Home: Today's Worship + All Services
+    │   └── service/
+    │       └── [id].tsx              # Service reader
+    ├── components/                   # ChunkView, SectionHeader
+    ├── lib/                          # Context, database helpers, types
+    └── assets/                       # Bundled SQLite DB + icons
+```
+
 ## Building
 
 ### Prerequisites
 
+**Content pipeline:**
+- Python 3.10+
+- `pdfplumber` (`pip install pdfplumber`)
+
+**iOS app:**
 - Xcode 16+ with iOS 17+ SDK
-- Python 3.10+ (for content pipeline)
-- `pdfplumber` Python package (`pip install pdfplumber`)
 - `xcodegen` (`brew install xcodegen`)
+
+**Expo app:**
+- Node.js 18+
+- npm
 
 ### Content Pipeline
 
@@ -39,6 +88,9 @@ To rebuild the SQLite database from source PDFs:
 pip install pdfplumber
 python3 pipeline/parse_pdfs.py
 python3 pipeline/build_db.py ios/HyePray/HyePray/Resources/hye_pray.db
+
+# Copy the database to the Expo app as well
+cp ios/HyePray/HyePray/Resources/hye_pray.db app/assets/hye_pray.db
 ```
 
 ### iOS App
@@ -59,26 +111,16 @@ xcodebuild -project HyePray.xcodeproj \
 open HyePray.xcodeproj
 ```
 
-## Project Structure
+### Expo App
 
-```
-hye_pray/
-├── pipeline/
-│   ├── parse_pdfs.py          # PDF → structured JSON parser
-│   ├── build_db.py            # JSON → SQLite database builder
-│   ├── content/               # Generated JSON content files
-│   └── source_pdfs/           # Source PDF prayer books (not committed)
-├── ios/
-│   └── HyePray/
-│       ├── project.yml        # xcodegen project definition
-│       ├── HyePray/
-│       │   ├── HyePrayApp.swift
-│       │   ├── Models/        # Data models + app state
-│       │   ├── Database/      # SQLite reader
-│       │   ├── Views/         # SwiftUI views
-│       │   └── Resources/     # SQLite DB + assets
-│       └── HyePray.xcodeproj/
-└── docs/                      # Design documentation
+```bash
+cd app
+
+# Install dependencies
+npm install
+
+# Start the dev server
+npx expo start
 ```
 
 ## License
