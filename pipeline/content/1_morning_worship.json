@@ -39,70 +39,117 @@
           "role": "priest",
           "hy": "Օրհնեալ Տէր մեր Յիսուս Քրիստոս։ Ամէն։ ♰♰",
           "translit": "Orhnyal Der mer Hisoos Krisdos. amen։ ♰♰ ♰♰",
-          "en": "Blessed be our Lord Jesus Christ. Amen."
+          "en": "Blessed be our Lord Jesus Christ. Amen.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0002",
           "role": "congregation",
           "hy": "Հա՛յր մեր, որ յերկինս ես, սուրբ եղիցի անուն",
           "translit": "Ha՛yr mer, vor hergins yes, soorp yeghitsi Our",
-          "en": "Father, who art in heaven, hallowed be"
+          "en": "Father, who art in heaven, hallowed be",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0003",
           "role": "congregation",
           "hy": "քո։ Եկեսցէ արքայութիւն քո։ Եղիցին կամք",
           "translit": "anoon ko։ Yegestse arkayootyoon ko։ thy",
-          "en": "name; thy kingdom come, thy will be"
+          "en": "name; thy kingdom come, thy will be",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0004",
           "role": "congregation",
           "hy": "քո որպէս յերկինս եւ յերկրի։ Զհաց մեր",
           "translit": "Yeghitsin gamk ko vorbes hergins yev hergri։ done",
-          "en": "on earth as it is in heaven. Give us this"
+          "en": "on earth as it is in heaven. Give us this",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0005",
           "role": "congregation",
           "hy": "հանապազորդ տո՛ւր մեզ այսօր։ Եւ թո՛ղ",
           "translit": "Zhats mer hanabazort do՛or mez aysor։ Yev day",
-          "en": "our daily bread; and forgive us our debts,"
+          "en": "our daily bread; and forgive us our debts,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0006",
           "role": "congregation",
           "hy": "մեզ զպարտիս մեր, որպէս եւ մեք թողումք",
           "translit": "to՛gh mez zbardis mer, vorbes yev mek as",
-          "en": "we forgive our debtors; and lead us not"
+          "en": "we forgive our debtors; and lead us not",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0007",
           "role": "congregation",
           "hy": "մերոց պարտապանաց։ Եւ մի՛ տանիր զմեզ ի",
           "translit": "toghoomk merots bardabanats։ Yev mi՛ danir into",
-          "en": "temptation; but deliver us from evil."
+          "en": "temptation; but deliver us from evil.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0008",
           "role": "congregation",
           "hy": "փորձութիւն։ Այլ փրկեա՛ զմեզ ի չարէ։",
           "translit": "zmez i portzootyoon։ Ayl prgya՛ zmez i chare։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0009",
           "role": "congregation",
           "hy": "Զի քո է արքայութիւն եւ զօրութիւն եւ",
           "translit": "Zi ko e arkayootyoon yev zorootyoon yev For",
-          "en": "thine is the kingdom and the power and"
+          "en": "thine is the kingdom and the power and",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0010",
           "role": "congregation",
           "hy": "փառք յաւիտեանս։ Ամէն։",
           "translit": "paṙk havidyans. amen։ the",
-          "en": "glory for ever and ever. Amen."
+          "en": "glory for ever and ever. Amen.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -119,77 +166,129 @@
           "role": "congregation",
           "hy": "Տէր, եթէ զշրթունս իմ բանաս, բերան իմ",
           "translit": "Der, yete zshrtoons im panas, peran im Lord",
-          "en": "you shall open my lips, and my mouth"
+          "en": "you shall open my lips, and my mouth",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0012",
           "role": "congregation",
           "hy": "երգեսցէ զօրհնութիւնս քո։",
           "translit": "yerkestse zorhnootyoons ko։ shall",
-          "en": "declare your praise."
+          "en": "declare your praise.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0013",
           "role": "congregation",
           "hy": "Օրհնեալ է Աստուած։",
           "translit": "Orhnyal e Asdvadz։ Blessed",
-          "en": "be God."
+          "en": "be God.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0014",
           "role": "congregation",
           "hy": "Տէր, եթէ զշրթունս իմ բանաս, բերան իմ",
           "translit": "Der, yete zshrtoons im panas, peran im Lord",
-          "en": "you shall open my lips, and my mouth"
+          "en": "you shall open my lips, and my mouth",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0015",
           "role": "congregation",
           "hy": "երգեսցէ զօրհնութիւնս քո։",
           "translit": "yerkestse zorhnootyoons ko։ shall",
-          "en": "declare your praise."
+          "en": "declare your praise.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0016",
           "role": "congregation",
           "hy": "Գովեալ է Աստուած։",
           "translit": "Kovyal e Asdvadz։ Praise",
-          "en": "be to God."
+          "en": "be to God.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0017",
           "role": "congregation",
           "hy": "Օրհնեալ համագոյ եւ միասնական",
           "translit": "Orhnyal hamako yev miasnagan anpajaneli Blessed",
-          "en": "is the coessential, united, and"
+          "en": "is the coessential, united, and",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0018",
           "role": "congregation",
           "hy": "անբաժանելի սուրբ երրորդութիւնն՝ հայր",
           "translit": "soorp yerrortootyoonn՝ hayr yev vorti yev indivisible",
-          "en": "Holy Trinity, Father and Son and"
+          "en": "Holy Trinity, Father and Son and",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0019",
           "role": "congregation",
           "hy": "եւ որդի եւ հոգի սուրբ. այժմ եւ միշտ եւ",
           "translit": "hoki soorp. ayjm yev mishd yev havidyans Holy",
-          "en": "Spirit, now and forever and unto the"
+          "en": "Spirit, now and forever and unto the",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0020",
           "role": "congregation",
           "hy": "յաւիտեանս յաւիտենից։ Ամէն։",
           "translit": "havidenits. amen։ ages",
-          "en": "of ages. Amen."
+          "en": "of ages. Amen.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0021",
           "role": "congregation",
           "hy": "",
           "translit": "Պատրաստեց՝ Կա1 րապետ Ծ.Ք.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -206,161 +305,269 @@
           "role": "congregation",
           "hy": "ԳԳ",
           "translit": "33 33",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0023",
           "role": "congregation",
           "hy": "Տէ՛ր, զի՜ բազում եղեն նեղիչք իմ •",
           "translit": "De՛r, zi՜ pazoom yeghen neghichk im • Lord,",
-          "en": "how many were my adversaries! Many"
+          "en": "how many were my adversaries! Many",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0024",
           "role": "congregation",
           "hy": "եւ բազումք յարեան ի վերայ իմ։",
           "translit": "yev pazoomk haryan i vera im։ assaulted",
-          "en": "me."
+          "en": "me.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0025",
           "role": "congregation",
           "hy": "Բազումք ասէին զանձնէ իմմէ •",
           "translit": "Pazoomk asein zantsne imme • Many",
-          "en": "said about me, “His God cannot save"
+          "en": "said about me, “His God cannot save",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0026",
           "role": "congregation",
           "hy": "թէ՝ «Չիք փրկութիւն սորա առ Աստուած",
           "translit": "te՝ «Chik prgootyoon sora aṙ Asdvadz yoor»։ him.”",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0027",
           "role": "congregation",
           "hy": "իւր»։",
           "translit": "",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0028",
           "role": "congregation",
           "hy": "Այլ Դու, Տէ՛ր, օգնական իմ ես •",
           "translit": "Ayl Too, De՛r, oknagan im yes • But",
-          "en": "you, Lord, are my helper, my glory, and"
+          "en": "you, Lord, are my helper, my glory, and",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0029",
           "role": "congregation",
           "hy": "փառք իմ եւ բարձրացուցիչ գլխոյ իմոյ։",
           "translit": "paṙk im yev partsratsootsich klkho imo։ you",
-          "en": "lift my confidence."
+          "en": "lift my confidence.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0030",
           "role": "congregation",
           "hy": "Ձայնիւ իմով ես առ Տէր կարդացի •",
           "translit": "Tsayniv imov yes aṙ Der gartatsi • I",
-          "en": "called out loud to the Lord, and he heard"
+          "en": "called out loud to the Lord, and he heard",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0031",
           "role": "congregation",
           "hy": "եւ լուաւ ինձ ի լեռնէ սրբոյ Իւրմէ։",
           "translit": "yev lvav ints i leṙne srpo Yoorme։ me",
-          "en": "from his holy mountain."
+          "en": "from his holy mountain.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0032",
           "role": "congregation",
           "hy": "Ես ննջեցի եւ ի քուն եղէ •",
           "translit": "Yes nnchetsi yev i koon yeghe • I",
-          "en": "reposed and fell asleep; I woke up, and the"
+          "en": "reposed and fell asleep; I woke up, and the",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0033",
           "role": "congregation",
           "hy": "զարթեայ, եւ Տէր ընդունելի իմ է։",
           "translit": "zartya, yev Der ŭntooneli im e։ Lord",
-          "en": "still welcomes me."
+          "en": "still welcomes me.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0034",
           "role": "congregation",
           "hy": "Ոչ երկեայց ես ի բիւրաւոր զօրաց նոցա •",
           "translit": "Voch yergyayts yes i pyooravor zorats notsa • I",
-          "en": "will not fear their thousands of troops who"
+          "en": "will not fear their thousands of troops who",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0035",
           "role": "congregation",
           "hy": "ոյք շուրջանակի պատեալ պաշարեալ",
           "translit": "voyk shoorchanagi badyal basharyal bahein have",
-          "en": "surrounded and beseiged me."
+          "en": "surrounded and beseiged me.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0036",
           "role": "congregation",
           "hy": "պահէին զիս։",
           "translit": "zis։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0037",
           "role": "congregation",
           "hy": "Արի՛, Տէ՛ր, եւ փրկեա՛ զիս, Աստուա՛ծ իմ,",
           "translit": "Ari՛, De՛r, yev prgya՛ zis, Asdva՛dz im, Arise,",
-          "en": "Lord! Save me, my God! For you struck"
+          "en": "Lord! Save me, my God! For you struck",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0038",
           "role": "congregation",
           "hy": "զի Դու հարեր զամենեսեան, ոյք էին ընդ",
           "translit": "zi Too harer zamenesyan, voyk ein down",
-          "en": "all who were wrongfully hostile to me,"
+          "en": "all who were wrongfully hostile to me,",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0039",
           "role": "congregation",
           "hy": "իս թշնամութեամբ ի տարապարտուց •",
           "translit": "ŭnt is tshnamootyamp i darabardoots • and",
-          "en": "you will break the teeth of the wicked."
+          "en": "you will break the teeth of the wicked.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0040",
           "role": "congregation",
           "hy": "եւ զատամունս մեղաւորաց փշրեսցես։",
           "translit": "yev zadamoons meghavorats pshrestses։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0041",
           "role": "congregation",
           "hy": "Տեառնդ է փրկութիւն • ի վերայ",
           "translit": "Dyaṙnt e prgootyoon • i vera joghovrtyan Ko՝ Salvation",
-          "en": "belongs to you Lord; may your"
+          "en": "belongs to you Lord; may your",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0042",
           "role": "congregation",
           "hy": "ժողովրդեան Քո՝ օրհնութիւն Քո։",
           "translit": "orhnootyoon Ko։ blessing",
-          "en": "be upon your people!"
+          "en": "be upon your people!",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0043",
           "role": "congregation",
           "hy": "զամենայն նեղիչս անձին իմոյ, զի ես ծառայ Քո եմ։” on page 7",
           "translit": "goro՛ zamenayn neghichs antsin imo, zi yes dzaṙa Ko yem։” on all",
-          "en": "my adversaries, for I am your servant.” on page 7"
+          "en": "my adversaries, for I am your servant.” on page 7",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0044",
           "role": "congregation",
           "hy": "",
           "translit": "page 7",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -377,315 +584,526 @@
           "role": "congregation",
           "hy": "Տէ՛ր Աստուած փրկութեան իմոյ •",
           "translit": "De՛r Asdvadz prgootyan imo • Lord",
-          "en": "God of my salvation, •"
+          "en": "God of my salvation, •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0046",
           "role": "congregation",
           "hy": "ի տուէ կարդացի եւ ի գիշերի առաջի Քո։",
           "translit": "i dŭve gartatsi yev i kisheri aṙachi Ko։ by",
-          "en": "day I cried out, and at night, before you."
+          "en": "day I cried out, and at night, before you.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0047",
           "role": "congregation",
           "hy": "Մտցեն աղօթք իմ առաջի Քո, Տէ՛ր •",
           "translit": "Mdtsen aghotk im aṙachi Ko, De՛r • Let",
-          "en": "my prayers come before you Lord; •"
+          "en": "my prayers come before you Lord; •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0048",
           "role": "congregation",
           "hy": "խոնարհեսցի ունկն Քո ի խնդրուածս իմ,",
           "translit": "khonarhestsi oongn Ko i khntrvadzs im, let",
-          "en": "your ear be inclined to my requests."
+          "en": "your ear be inclined to my requests.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0049",
           "role": "congregation",
           "hy": "Զի լցաւ չարչարանօք անձն իմ, եւ կեանք իմ",
           "translit": "Zi ltsav charcharanok antsn im, yev gyank For",
-          "en": "my soul was full of troubles, my life drew"
+          "en": "my soul was full of troubles, my life drew",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0050",
           "role": "congregation",
           "hy": "ի դժոխս մերձեցան • եւ համարեցայ ես ընդ",
           "translit": "im i tjokhs mertsetsan • yev hamaretsa yes near",
-          "en": "to hell, • and I have become counted"
+          "en": "to hell, • and I have become counted",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0051",
           "role": "congregation",
           "hy": "այնոսիկ, որք իջանեն ի գուբ։",
           "translit": "ŭnt aynosig, vork ichanen i koop։ among",
-          "en": "those who descend into a pit."
+          "en": "those who descend into a pit.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0052",
           "role": "congregation",
           "hy": "Եղէ ես որպէս մարդ առանց օգնականի •",
           "translit": "Yeghe yes vorbes mart aṙants oknagani • I",
-          "en": "have become a helpless man •"
+          "en": "have become a helpless man •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0053",
           "role": "congregation",
           "hy": "եւ ի մեռեալս ազատ",
           "translit": "yev i meṙyals azad free",
-          "en": "among corpses."
+          "en": "among corpses.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0054",
           "role": "congregation",
           "hy": "Որպէս զվիրաւորս •",
           "translit": "Vorbes zviravors • vork nnchen i kerezmani, Like",
-          "en": "casualties • lying in a grave,"
+          "en": "casualties • lying in a grave,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0055",
           "role": "congregation",
           "hy": "որք ննջեն ի գերեզմանի,",
           "translit": "",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0056",
           "role": "congregation",
           "hy": "Զորս Դու ոչ յիշեցեր •",
           "translit": "Zors Too voch hishetser • Whom",
-          "en": "you do not remember, •"
+          "en": "you do not remember, •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0057",
           "role": "congregation",
           "hy": "նոքա ի ձեռանէ Քումմէ մերժեցան։",
           "translit": "noka i tseṙane Koomme merjetsan։ and",
-          "en": "who are rejected by your hand."
+          "en": "who are rejected by your hand.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0058",
           "role": "congregation",
           "hy": "Եդին զիս ի գբի ներքնումն •",
           "translit": "Yetin zis i kpi nerknoomn • They",
-          "en": "put me into a pit of depths, •"
+          "en": "put me into a pit of depths, •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0059",
           "role": "congregation",
           "hy": "ի խաւարի եւ ի ստուերս մահու։",
           "translit": "i khavari yev i sdvers mahoo։ into",
-          "en": "darkness and the shadow of death."
+          "en": "darkness and the shadow of death.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0060",
           "role": "congregation",
           "hy": "Յիս հաստատեցաւ սրտմտութիւն Քո •",
           "translit": "His hasdadetsav srdmdootyoon Ko • Your",
-          "en": "anger was fixed upon me, •"
+          "en": "anger was fixed upon me, •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0061",
           "role": "congregation",
           "hy": "զամենայն զբօսանս Քո ածեր ի վերայ իմ։",
           "translit": "zamenayn zposans Ko adzer i vera im։ and",
-          "en": "all your wrath brought upon me."
+          "en": "all your wrath brought upon me.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0062",
           "role": "congregation",
           "hy": "Հեռի արարեր յինէն զծանօթս իմ •",
           "translit": "Heṙi ararer hinen zdzanots im • You",
-          "en": "took away all my friends, •"
+          "en": "took away all my friends, •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0063",
           "role": "congregation",
           "hy": "եւ եդին զիս նշաւակ իւրեանց։",
           "translit": "yev yetin zis nshavag yooryants։ and",
-          "en": "they made me their laughing stock."
+          "en": "they made me their laughing stock.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0064",
           "role": "congregation",
           "hy": "Մատնեցայ եւ ոչ ելանէի •",
           "translit": "Madnetsa yev voch yelanei • I",
-          "en": "have been betrayed with no escape; •"
+          "en": "have been betrayed with no escape; •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0065",
           "role": "congregation",
           "hy": "աչք իմ տկարացան յաղքատութենէ։",
           "translit": "achk im dgaratsan haghkadootene։ my",
-          "en": "eyes grew dim because of want."
+          "en": "eyes grew dim because of want.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0066",
           "role": "congregation",
           "hy": "Աղաղակեցի առ Տէր զօրհանապազ •",
           "translit": "Aghaghagetsi aṙ Der zorhanabaz • I",
-          "en": "called you Lord every day •"
+          "en": "called you Lord every day •",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0067",
           "role": "congregation",
           "hy": "եւ համբարձի առ Քեզ զձեռս իմ։",
           "translit": "yev hampartsi aṙ Kez ztseṙs im։ and",
-          "en": "raised my hands to you."
+          "en": "raised my hands to you.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0068",
           "role": "congregation",
           "hy": "Միթէ մեռելոց առնիցե՞ս զսքանչելիս Քո •",
           "translit": "Mite meṙelots aṙnitse՞s zskanchelis Ko • Surely,",
-          "en": "you will not work your wonders"
+          "en": "you will not work your wonders",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0069",
           "role": "congregation",
           "hy": "կամ բժիշկք յարուցեալ խոստովան",
           "translit": "gam pjishgk harootsyal khosdovan for",
-          "en": "the dead? • Or will physicians, rising,"
+          "en": "the dead? • Or will physicians, rising,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0070",
           "role": "congregation",
           "hy": "առնիցի՞ն առ Քեզ։",
           "translit": "aṙnitsi՞n aṙ Kez։ receive",
-          "en": "you?"
+          "en": "you?",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0071",
           "role": "congregation",
           "hy": "Միթէ պատմեսցէ՞ ոք երբեք ի",
           "translit": "Mite badmestse՞ vok yerpek i Surely,",
-          "en": "no one will declare your mercy"
+          "en": "no one will declare your mercy",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0072",
           "role": "congregation",
           "hy": "գերեզմանի զողորմութիւնս Քո •",
           "translit": "kerezmani zoghormootyoons Ko • in",
-          "en": "a grave • and your truth in a ruin?"
+          "en": "a grave • and your truth in a ruin?",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0073",
           "role": "congregation",
           "hy": "կամ զճշմարտութիւնս Քո` ի կորստեան։",
           "translit": "gam zjshmardootyoons Ko` i gorsdyan։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0074",
           "role": "congregation",
           "hy": "Միթէ ճանաչիցի՞ն",
           "translit": "Mite janachitsi՞n i khavari skanchelik Ko • Surely,",
-          "en": "your wonders will not be known"
+          "en": "your wonders will not be known",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0075",
           "role": "congregation",
           "hy": "ի խաւարի սքանչելիք Քո •",
           "translit": "gam artarootyoon Ko` hergir moṙatsyal։ in",
-          "en": "the darkness, • and your righteousness"
+          "en": "the darkness, • and your righteousness",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0076",
           "role": "congregation",
           "hy": "կամ արդարութիւն Քո` յերկիր մոռացեալ։",
           "translit": "in",
-          "en": "a forgotten land?"
+          "en": "a forgotten land?",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0077",
           "role": "congregation",
           "hy": "Ես առ Քեզ, Տէ՛ր, աղաղակեցի •",
           "translit": "Yes aṙ Kez, De՛r, aghaghagetsi • I",
-          "en": "cried out to you Lord •"
+          "en": "cried out to you Lord •",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0078",
           "role": "congregation",
           "hy": "առաւօտու աղօթք իմ ժամանեսցեն առ Քեզ։",
           "translit": "aṙavodoo aghotk im jamanestsen aṙ Kez։ let",
-          "en": "my morning prayers reach you."
+          "en": "my morning prayers reach you.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0079",
           "role": "congregation",
           "hy": "Ընդէ՞ր, Տէ՛ր, մերժես զանձն իմ • կամ",
           "translit": "Ŭnte՞r, De՛r, merjes zantsn im • gam Why,",
-          "en": "Lord, do you reject my soul • or turn"
+          "en": "Lord, do you reject my soul • or turn",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0080",
           "role": "congregation",
           "hy": "դարձուցանես զերեսս Քո յինէն։",
           "translit": "tartsootsanes zeress Ko hinen։ your",
-          "en": "face away from me?"
+          "en": "face away from me?",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0081",
           "role": "congregation",
           "hy": "Տնանկ եւ վաստակաւոր եմ ես ի",
           "translit": "Dnang yev vasdagavor yem yes i mangootene Homeless",
-          "en": "and heavy-laden am I since"
+          "en": "and heavy-laden am I since",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0082",
           "role": "congregation",
           "hy": "մանկութենէ իմմէ • ի բարձրութենէ",
           "translit": "imme • i partsrootene khonarhetsa yev my",
-          "en": "childhood • from up high have I been"
+          "en": "childhood • from up high have I been",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0083",
           "role": "congregation",
           "hy": "խոնարհեցայ եւ ապշեցայ։",
           "translit": "abshetsa։ humbled",
-          "en": "and bewildered."
+          "en": "and bewildered.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0084",
           "role": "congregation",
           "hy": "Յիս հաստատեցաւ բարկութիւն Քո •",
           "translit": "His hasdadetsav pargootyoon Ko • arhavirk Your",
-          "en": "wrath has swept over me; • your terrors"
+          "en": "wrath has swept over me; • your terrors",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0085",
           "role": "congregation",
           "hy": "արհաւիրք Քո խռովեցուցին զիս։",
           "translit": "Ko khṙovetsootsin zis։ have",
-          "en": "frightened me."
+          "en": "frightened me.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0086",
           "role": "congregation",
           "hy": "Շրջեցան զինեւ որպէս ջուր • զօր ամենայն",
           "translit": "Shrchetsan zinev vorbes choor • zor amenayn They",
-          "en": "encircle me like water • which all"
+          "en": "encircle me like water • which all",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0087",
           "role": "congregation",
           "hy": "պաշարեցին զիս ի միասին։",
           "translit": "basharetsin zis i miasin։ together",
-          "en": "surround me."
+          "en": "surround me.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0088",
           "role": "congregation",
           "hy": "Հեռի արարեր յինէն զբարեկամս իմ եւ",
           "translit": "Heṙi ararer hinen zparegams im yev zdzanots You",
-          "en": "took away all my friends and"
+          "en": "took away all my friends and",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0089",
           "role": "congregation",
           "hy": "զծանօթս իմ • վասն թշուառութեան իմոյ։",
           "translit": "im • vasn tshvaṙootyan imo։ acquaintences",
-          "en": "• because of my misery."
+          "en": "• because of my misery.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -702,378 +1120,632 @@
           "role": "congregation",
           "hy": "Օրհնեա՛, ա՛նձն իմ, զՏէր, եւ ամենայն",
           "translit": "Orhnya՛, a՛ntsn im, zDer, yev amenayn Bless",
-          "en": "the Lord, my soul, and all that is within"
+          "en": "the Lord, my soul, and all that is within",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0091",
           "role": "congregation",
           "hy": "ոսկերք իմ՝ զանուն սուրբ Նորա։",
           "translit": "vosgerk im՝ zanoon soorp Nora։ me,",
-          "en": "his holy name."
+          "en": "his holy name.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0092",
           "role": "congregation",
           "hy": "Օրհնեա՛, ա՛նձն իմ, զՏէր եւ մի՛ մոռանար",
           "translit": "Orhnya՛, a՛ntsn im, zDer yev mi՛ moṙanar Bless",
-          "en": "the Lord, my soul, and do not forget his"
+          "en": "the Lord, my soul, and do not forget his",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0093",
           "role": "congregation",
           "hy": "զամենայն տուրս Նորա.",
           "translit": "zamenayn doors Nora. repayments.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0094",
           "role": "congregation",
           "hy": "Ո քաւէ զմեղս քո, բժշկէ զամենայն",
           "translit": "Vo kave zmeghs ko, pjshge zamenayn Who",
-          "en": "absolves your sins, and heals all your"
+          "en": "absolves your sins, and heals all your",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0095",
           "role": "congregation",
           "hy": "հիւանդութիւնս քո.",
           "translit": "hivantootyoons ko. diseases.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0096",
           "role": "congregation",
           "hy": "Ո փրկէ յապականութենէ զկեանս",
           "translit": "Vo prge habaganootene zgyans ko, bsage Who",
-          "en": "saves your life from corruption, and"
+          "en": "saves your life from corruption, and",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0097",
           "role": "congregation",
           "hy": "քո, պսակէ զքեզ ողորմութեամբ եւ",
           "translit": "zkez voghormootyamp yev ktootyamp. crowns",
-          "en": "you with mercy and compassion."
+          "en": "you with mercy and compassion.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0098",
           "role": "congregation",
           "hy": "գթութեամբ.",
           "translit": "",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0099",
           "role": "congregation",
           "hy": "Ո լնու ի բարութենէ զցանկութիւն քո,",
           "translit": "Vo lnoo i parootene ztsangootyoon ko, Who",
-          "en": "satisfies your desire with good, who"
+          "en": "satisfies your desire with good, who",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0100",
           "role": "congregation",
           "hy": "նորոգեսցի որպէս արծուոյ մանկութիւն քո։",
           "translit": "norokestsi vorbes ardzvo mangootyoon ko։ renews",
-          "en": "your youth like an eagle’s."
+          "en": "your youth like an eagle’s.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0101",
           "role": "congregation",
           "hy": "Առնէ ողորմութիւնս Տէր եւ իրաւունս",
           "translit": "Aṙne voghormootyoons Der yev iravoons Who",
-          "en": "performs acts of pity and judgement for"
+          "en": "performs acts of pity and judgement for",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0102",
           "role": "congregation",
           "hy": "ամենայն զրկելոց։",
           "translit": "amenayn zrgelots։ all",
-          "en": "who are being wronged."
+          "en": "who are being wronged.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0103",
           "role": "congregation",
           "hy": "Եցոյց Տէր զճանապարհս Իւր Մովսիսի եւ",
           "translit": "Yetsooyts Der zjanabarhs Yoor Movsisi yev He",
-          "en": "made know his ways to Moses, to the"
+          "en": "made know his ways to Moses, to the",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0104",
           "role": "congregation",
           "hy": "որդւոցն Իսրայելի զկամս Իւր։",
           "translit": "vortvotsn Israyeli zgams Yoor։ sons",
-          "en": "of Israel his will."
+          "en": "of Israel his will.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0105",
           "role": "congregation",
           "hy": "Գթած, ողորմած է Տէր, երկայնամիտ եւ",
           "translit": "Ktadz, voghormadz e Der, yergaynamid yev Compassionate",
-          "en": "and merciful is the Lord, slow"
+          "en": "and merciful is the Lord, slow",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0106",
           "role": "congregation",
           "hy": "բազումողորմ։",
           "translit": "pazoomoghorm։ to",
-          "en": "anger and abounding in mercy."
+          "en": "anger and abounding in mercy.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0107",
           "role": "congregation",
           "hy": "Ոչ ի սպառ բարկանայ Տէր եւ ոչ յաւիտեան",
           "translit": "Voch i sbaṙ pargana Der yev voch havidyan He",
-          "en": "will not be totally angry, nor will he keep"
+          "en": "will not be totally angry, nor will he keep",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0108",
           "role": "congregation",
           "hy": "պահէ ոխս։",
           "translit": "bahe vokhs։ his",
-          "en": "wrath forever."
+          "en": "wrath forever.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0109",
           "role": "congregation",
           "hy": "Ոչ ըստ մեղաց մերոց արար մեզ եւ ոչ ըստ",
           "translit": "Voch ŭsd meghats merots arar mez yev voch Not",
-          "en": "according to our sins did he deal with us,"
+          "en": "according to our sins did he deal with us,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0110",
           "role": "congregation",
           "hy": "անօրէնութեան մերում հատոյց մեզ.",
           "translit": "ŭsd anorenootyan meroom hadooyts mez. nor",
-          "en": "according to our acts of lawlessness did"
+          "en": "according to our acts of lawlessness did",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0111",
           "role": "congregation",
           "hy": "",
           "translit": "he",
-          "en": "repay us."
+          "en": "repay us.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0112",
           "role": "congregation",
           "hy": "Այլ որպէս բարձր են երկինք յերկրէ, այնպէս",
           "translit": "Ayl vorbes partsr yen yergink hergre, aynbes But",
-          "en": "as high as the sky is above the earth, he"
+          "en": "as high as the sky is above the earth, he",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0113",
           "role": "congregation",
           "hy": "զօրացոյց Տէր զողորմութիւն Իւր ի վերայ",
           "translit": "zoratsooyts Der zoghormootyoon Yoor i vera strengthened",
-          "en": "his mercy toward those who"
+          "en": "his mercy toward those who",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0114",
           "role": "congregation",
           "hy": "երկիւղածաց Իւրոց։",
           "translit": "yergyooghadzats Yoorots։ fear",
-          "en": "him."
+          "en": "him.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0115",
           "role": "congregation",
           "hy": "Որչափ հեռի են արեւելք յարեւմտից,",
           "translit": "Vorchap heṙi yen arevelk harevmdits, As",
-          "en": "far as the east is from the west, he has"
+          "en": "far as the east is from the west, he has",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0116",
           "role": "congregation",
           "hy": "այնչափ հեռի արար ի մէնջ",
           "translit": "aynchap heṙi arar i mench zanorenootyoons removed",
-          "en": "from us our acts of lawlessness."
+          "en": "from us our acts of lawlessness.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0117",
           "role": "congregation",
           "hy": "զանօրէնութիւնս մեր։",
           "translit": "mer։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0118",
           "role": "congregation",
           "hy": "Որպէս գթայ հայր ի վերայ որդւոց իւրոց,",
           "translit": "Vorbes kta hayr i vera vortvots yoorots, As",
-          "en": "a father has compassion for sons, so shall"
+          "en": "a father has compassion for sons, so shall",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0119",
           "role": "congregation",
           "hy": "այնպէս գթասցի Տէր յերկիւղածս Իւր.",
           "translit": "aynbes ktastsi Der hergyooghadzs Yoor. the",
-          "en": "Lord have compassion for those those"
+          "en": "Lord have compassion for those those",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0120",
           "role": "congregation",
           "hy": "",
           "translit": "who",
-          "en": "fear him."
+          "en": "fear him.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0121",
           "role": "congregation",
           "hy": "Զի Նա գիտաց զստեղծուածս մեր եւ յիշեաց,",
           "translit": "Zi Na kidats zsdeghdzvadzs mer yev hishyats, For",
-          "en": "he knew our makeup, and remembered"
+          "en": "he knew our makeup, and remembered",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0122",
           "role": "congregation",
           "hy": "թէ հող եմք։",
           "translit": "te hogh yemk։ that",
-          "en": "we are earth."
+          "en": "we are earth.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0123",
           "role": "congregation",
           "hy": "Մարդոյ որպէս խոտոյ են, աւուրք իւր",
           "translit": "Marto vorbes khodo yen, avoork yoor vorbes For",
-          "en": "a man, as his days are like grass, like a"
+          "en": "a man, as his days are like grass, like a",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0124",
           "role": "congregation",
           "hy": "որպէս ծաղիկ վայրի՝ այնպէս ծաղկէ։",
           "translit": "dzaghig vayri՝ aynbes dzaghge։ flower",
-          "en": "of the field, so it will bloom."
+          "en": "of the field, so it will bloom.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0125",
           "role": "congregation",
           "hy": "Շնչէ ի նմա հողմ, եւ ոչ է, եւ ոչ եւս երեւի",
           "translit": "Shnche i nma hoghm, yev voch e, yev voch A",
-          "en": "breath passed through it, and it will be"
+          "en": "breath passed through it, and it will be",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0126",
           "role": "congregation",
           "hy": "տեղի նորա։",
           "translit": "yevs yerevi deghi nora։ gone,",
-          "en": "and its place will no longer be seen."
+          "en": "and its place will no longer be seen.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0127",
           "role": "congregation",
           "hy": "Բայց ողորմութիւն Տեառն յաւիտեանս",
           "translit": "Payts voghormootyoon Dyaṙn havidyans But",
-          "en": "the mercy of the Lord is from everlasting"
+          "en": "the mercy of the Lord is from everlasting",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0128",
           "role": "congregation",
           "hy": "յաւիտենից ի վերայ երկիւղածաց Իւրոց, եւ",
           "translit": "havidenits i vera yergyooghadzats Yoorots, to",
-          "en": "everlasting on those who fear him, and his"
+          "en": "everlasting on those who fear him, and his",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0129",
           "role": "congregation",
           "hy": "արդարութիւն Նորա յորդւոց մինչեւ յորդիս,",
           "translit": "yev artarootyoon Nora hortvots minchev righteousness",
-          "en": "on sons’ sons"
+          "en": "on sons’ sons",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0130",
           "role": "congregation",
           "hy": "",
           "translit": "hortis,",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0131",
           "role": "congregation",
           "hy": "Ոյք պահեն զուխտս Նորա, յիշեն",
           "translit": "Voyk bahen zookhds Nora, hishen For",
-          "en": "those who keep his covenant and"
+          "en": "those who keep his covenant and",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0132",
           "role": "congregation",
           "hy": "զպատուիրանս Նորա եւ առնեն զնա։",
           "translit": "zbadvirans Nora yev aṙnen zna։ remember",
-          "en": "his commandments and do them."
+          "en": "his commandments and do them.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0133",
           "role": "congregation",
           "hy": "Տէր յերկինս պատրաստեաց զաթոռ Իւր,",
           "translit": "Der hergins badrasdyats zatoṙ Yoor, The",
-          "en": "Lord prepared his throne in the sky, and"
+          "en": "Lord prepared his throne in the sky, and",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0134",
           "role": "congregation",
           "hy": "արքայութիւն Նորա ամենեցուն տիրէ։",
           "translit": "arkayootyoon Nora amenetsoon dire։ his",
-          "en": "kingdom rules over all."
+          "en": "kingdom rules over all.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0135",
           "role": "congregation",
           "hy": "Օրհնեցէ՛ք զՏէր, ամենայն հրեշտա՛կք Նորա՝",
           "translit": "Orhnetse՛k zDer, amenayn hreshda՛gk Nora՝ Bless",
-          "en": "the Lord, all you angels, mighty"
+          "en": "the Lord, all you angels, mighty",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0136",
           "role": "congregation",
           "hy": "հզօրք զօրութեամբ, ոյք առնէք զբան Նորա",
           "translit": "hzork zorootyamp, voyk aṙnek zpan Nora i powers,",
-          "en": "who heed his word, and obey the"
+          "en": "who heed his word, and obey the",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0137",
           "role": "congregation",
           "hy": "ի լսել ձայնի պատգամաց Նորա։",
           "translit": "lsel tsayni badkamats Nora։ voice",
-          "en": "of his commandments."
+          "en": "of his commandments.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0138",
           "role": "congregation",
           "hy": "Օրհնեցէ՛ք զՏէր, ամենայն զօրութի՛ւնք",
           "translit": "Orhnetse՛k zDer, amenayn zorootyo՛onk Bless",
-          "en": "the Lord all his hosts, his ministers"
+          "en": "the Lord all his hosts, his ministers",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0139",
           "role": "congregation",
           "hy": "Նորա, պաշտօնեա՛յք եւ արարո՛ղք կամաց",
           "translit": "Nora, bashdonya՛yk yev araro՛ghk gamats doing",
-          "en": "his will."
+          "en": "his will.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0140",
           "role": "congregation",
           "hy": "Նորա։",
           "translit": "Nora։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0141",
           "role": "congregation",
           "hy": "Օրհնեցէ՛ք զՏէր, ամենայն գո՛րծք Նորա. զի",
           "translit": "Orhnetse՛k zDer, amenayn ko՛rdzk Nora. zi Bless",
-          "en": "the Lord all his works, in every place of"
+          "en": "the Lord all his works, in every place of",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0142",
           "role": "congregation",
           "hy": "ընդ ամենայն տեղիս է տէրութիւն Նորա.",
           "translit": "ŭnt amenayn deghis e derootyoon Nora. his",
-          "en": "dominion. Bless the Lord, my soul."
+          "en": "dominion. Bless the Lord, my soul.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0143",
           "role": "congregation",
           "hy": "օրհնեա՛, ա՛նձն իմ, զՏէր։",
           "translit": "orhnya՛, a՛ntsn im, zDer։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -1090,224 +1762,374 @@
           "role": "congregation",
           "hy": "Տէ՛ր, լո՛ւր աղօթից իմոց, ո՛ւնկն դիր",
           "translit": "De՛r, lo՛or aghotits imots, o՛ongn tir Lord,",
-          "en": "listen to my prayer, give ear to my"
+          "en": "listen to my prayer, give ear to my",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0145",
           "role": "congregation",
           "hy": "խնդրուածաց իմոց ճշմարտութեամբ Քով։",
           "translit": "khntrvadzats imots jshmardootyamp Kov։ petition",
-          "en": "in your truth."
+          "en": "in your truth.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0146",
           "role": "congregation",
           "hy": "Լո՛ւր ինձ արդարութեամբ Քով եւ մի՛",
           "translit": "Lo՛or ints artarootyamp Kov yev mi՛ mdaner i Hearken",
-          "en": "to me in your righteousness, and do"
+          "en": "to me in your righteousness, and do",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0147",
           "role": "congregation",
           "hy": "մտաներ ի դատաստան ընդ ծառայի Քում,",
           "translit": "tadasdan ŭnt dzaṙayi Koom, zi voch artarana not",
-          "en": "enter into judgment with your servant,"
+          "en": "enter into judgment with your servant,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0148",
           "role": "congregation",
           "hy": "զի ոչ արդարանայ առաջի Քո ամենայն",
           "translit": "aṙachi Ko amenayn gentani։ for",
-          "en": "no living being may be righteous before"
+          "en": "no living being may be righteous before",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0149",
           "role": "congregation",
           "hy": "կենդանի։",
           "translit": "you.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0150",
           "role": "congregation",
           "hy": "Հալածեաց թշնամին զանձն իմ, խոնարհ",
           "translit": "Haladzyats tshnamin zantsn im, khonarh The",
-          "en": "enemy pursued my soul, he humbled"
+          "en": "enemy pursued my soul, he humbled",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0151",
           "role": "congregation",
           "hy": "արար յերկիր զկեանս իմ եւ նստոյց զիս ի",
           "translit": "arar hergir zgyans im yev nsdooyts zis i my",
-          "en": "life to the ground, and he made me sit in"
+          "en": "life to the ground, and he made me sit in",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0152",
           "role": "congregation",
           "hy": "խաւարի որպէս մեռեալ յաւիտենից։",
           "translit": "khavari vorbes meṙyal havidenits։ dark",
-          "en": "places like those long-dead."
+          "en": "places like those long-dead.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0153",
           "role": "congregation",
           "hy": "Ձանձրացաւ յիս հոգի իմ, եւ սիրտ իմ",
           "translit": "Tsantsratsav his hoki im, yev sird im My",
-          "en": "spirit wearied me, and my heart troubled"
+          "en": "spirit wearied me, and my heart troubled",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0154",
           "role": "congregation",
           "hy": "խռովեցաւ յիս։",
           "translit": "khṙovetsav his։ me.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0155",
           "role": "congregation",
           "hy": "Յիշեցի զաւուրսն զառաջինս, խորհեցայ",
           "translit": "Hishetsi zavoorsn zaṙachins, khorhetsa I",
-          "en": "remembered the days of old, I meditated on"
+          "en": "remembered the days of old, I meditated on",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0156",
           "role": "congregation",
           "hy": "յամենայն գործս Քո. յարարածս ձեռաց Քոց",
           "translit": "hamenayn kordzs Ko. hararadzs tseṙats Kots all",
-          "en": "your deeds; on the works of your hands I"
+          "en": "your deeds; on the works of your hands I",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0157",
           "role": "congregation",
           "hy": "խորհեցայ եւ համբարձի առ Քեզ զձեռս իմ։",
           "translit": "khorhetsa yev hampartsi aṙ Kez ztseṙs im։ meditated",
-          "en": "and raised up to you my hands."
+          "en": "and raised up to you my hands.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0158",
           "role": "congregation",
           "hy": "Անձն իմ որպէս զերկիր ծարաւի է առ Քեզ.",
           "translit": "Antsn im vorbes zergir dzaravi e aṙ Kez. My",
-          "en": "Soul was like a parched land toward you."
+          "en": "Soul was like a parched land toward you.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0159",
           "role": "congregation",
           "hy": "վաղվաղակի լո՛ւր ինձ, Տէ՛ր, զի նուաղեցաւ",
           "translit": "vaghvaghagi lo՛or ints, De՛r, zi nvaghetsav Quickly",
-          "en": "listen to me Lord, my spirit failed"
+          "en": "listen to me Lord, my spirit failed",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0160",
           "role": "congregation",
           "hy": "յինէն հոգի իմ։",
           "translit": "hinen hoki im։ me.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0161",
           "role": "congregation",
           "hy": "Մի՛ դարձուցաներ զերեսս Քո յինէն.",
           "translit": "Mi՛ tartsootsaner zeress Ko hinen. nmanitsem Do",
-          "en": "not turn your face from me. I shall be like"
+          "en": "not turn your face from me. I shall be like",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0162",
           "role": "congregation",
           "hy": "նմանիցեմ այնոցիկ, ոյք իջանեն ի գուբ։",
           "translit": "aynotsig, voyk ichanen i koop։ those",
-          "en": "who go down into the pit."
+          "en": "who go down into the pit.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0163",
           "role": "congregation",
           "hy": "Լսելի՛ արա ինձ առաւօտու զողորմութիւնս",
           "translit": "Lseli՛ ara ints aṙavodoo zoghormootyoons Ko, Make",
-          "en": "me to hear your mercy in the morning,"
+          "en": "me to hear your mercy in the morning,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0164",
           "role": "congregation",
           "hy": "Քո, զի ես ի Քեզ, Տէ՛ր, յուսացայ։",
           "translit": "zi yes i Kez, De՛r, hoosatsa։ because",
-          "en": "in you have I hoped."
+          "en": "in you have I hoped.",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0165",
           "role": "congregation",
           "hy": "Ցո՛յց ինձ ճանապարհ, յոր եւ գնացից, զի առ",
           "translit": "Tso՛yts ints janabarh, hor yev knatsits, zi aṙ Show",
-          "en": "me the way I should go, for up to you"
+          "en": "me the way I should go, for up to you",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0166",
           "role": "congregation",
           "hy": "Քեզ, Տէ՛ր, համբարձի զանձն իմ։",
           "translit": "Kez, De՛r, hampartsi zantsn im։ Lord",
-          "en": "I lift my soul."
+          "en": "I lift my soul.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0167",
           "role": "congregation",
           "hy": "Փրկեա՛ զիս ի թշնամեաց իմոց, Տէ՛ր, զի",
           "translit": "Prgya՛ zis i tshnamyats imots, De՛r, zi zKez Save",
-          "en": "me from my enemies, Lord, for I have"
+          "en": "me from my enemies, Lord, for I have",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0168",
           "role": "congregation",
           "hy": "զՔեզ ապաւէն ինձ արարի։",
           "translit": "abaven ints arari։ made",
-          "en": "you my refuge."
+          "en": "you my refuge.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0169",
           "role": "congregation",
           "hy": "Ուսո՛ ինձ առնել զկամս Քո, զի Դու ես",
           "translit": "Ooso՛ ints aṙnel zgams Ko, zi Too yes Asdvadz Teach",
-          "en": "me to do your will, for you are my"
+          "en": "me to do your will, for you are my",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0170",
           "role": "congregation",
           "hy": "Աստուած իմ։",
           "translit": "im։ God.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0171",
           "role": "congregation",
           "hy": "Հոգի Քո բարի առաջնորդեսցէ ինձ յերկիր",
           "translit": "Hoki Ko pari aṙachnortestse ints hergir Your",
-          "en": "good spirit guide me to a level ground."
+          "en": "good spirit guide me to a level ground.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0172",
           "role": "congregation",
           "hy": "ուղիղ։",
           "translit": "ooghigh։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0173",
           "role": "congregation",
           "hy": "Վասն անուան Քո, Տէ՛ր, կեցուսցես զիս,",
           "translit": "Vasn anvan Ko, De՛r, getsoostses zis, For",
-          "en": "the sake of your name Lord save me;"
+          "en": "the sake of your name Lord save me;",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0174",
           "role": "congregation",
           "hy": "արդարութեամբ Քով հանցես ի նեղութենէ",
           "translit": "artarootyamp Kov hantses i neghootene through",
-          "en": "your righteousness remove my soul"
+          "en": "your righteousness remove my soul",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0175",
           "role": "congregation",
           "hy": "զանձն իմ։",
           "translit": "zantsn im։ from",
-          "en": "torment."
+          "en": "torment.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -1324,28 +2146,42 @@
           "role": "congregation",
           "hy": "Փա՜ռք Հօր եւ Որդւոյ եւ Հոգւո՜յն Սրբոյ,",
           "translit": "Pa՜ṙk Hor yev Vortvo yev Hokvo՜oyn Srpo, Glory",
-          "en": "to the Father and to the Son and to the"
+          "en": "to the Father and to the Son and to the",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0177",
           "role": "congregation",
           "hy": "",
           "translit": "Holy",
-          "en": "Spirit,"
+          "en": "Spirit,",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0178",
           "role": "congregation",
           "hy": "Այժմ եւ միշտ եւ յաւիտեանս յաւիտենից։",
           "translit": "Ayjm yev mishd yev havidyans havidenits. Now",
-          "en": "and always and unto the ages of ages."
+          "en": "and always and unto the ages of ages.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0179",
           "role": "congregation",
           "hy": "Ամէն։",
           "translit": "amen։ Amen.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "full"
+          ]
         }
       ]
     },
@@ -1362,455 +2198,667 @@
           "role": "congregation",
           "hy": "Յիշեսցուք ի գի՛շերի՛ զանուն Քո, Տէ՛ր։",
           "translit": "Hishestsook i kísherì zanoon Ko, De՛r։ Let",
-          "en": "us recall in the night your name, Lord."
+          "en": "us recall in the night your name, Lord.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0181",
           "role": "congregation",
           "hy": "Բղխեսցեն սիրտք մեր զբան բարի՛, եւ",
           "translit": "Pghkhestsen sirdk mer zpan parí, yev The",
-          "en": "good word will flow forth from our"
+          "en": "good word will flow forth from our",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0182",
           "role": "congregation",
           "hy": "լեզո՛ւք մեր պատմեսցեն զգործս երկնաւոր",
           "translit": "lezòok mer badmestsen zkordzs yergnavor hearts,",
-          "en": "and our tongues will recount the"
+          "en": "and our tongues will recount the",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0183",
           "role": "congregation",
           "hy": "Թագաւորիդ։",
           "translit": "Takavorit։ works",
-          "en": "of you, the heavenly King."
+          "en": "of you, the heavenly King.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0184",
           "role": "congregation",
           "hy": "Ի մէջ գիշերի յարուցեալ՝ խոստովա՛նեսցո՛ւք",
           "translit": "I mech kisheri harootsyal՝ khosdova՛nestso՛ok Having",
-          "en": "arisen in the middle of the night, let"
+          "en": "arisen in the middle of the night, let",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0185",
           "role": "congregation",
           "hy": "զՔեզ, Տէ՛ր։",
           "translit": "zKez, De՛r: us",
-          "en": "confess you Lord."
+          "en": "confess you Lord.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0186",
           "role": "congregation",
           "hy": "Զաղօթս մեր տացո՛ւք Քեզ, Տէր, ի՛ գաւիթս",
           "translit": "Zaghots mer datso՛ok Kez, Der, i՛ kavits Ko i Let",
-          "en": "us offer our prayers to you, Lord, in your"
+          "en": "us offer our prayers to you, Lord, in your",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0187",
           "role": "congregation",
           "hy": "Քո ի մէջ նոր Երուսաղեմի։",
           "translit": "mech nor Yeroosaghemi։ court,",
-          "en": "in the new Jerusalem."
+          "en": "in the new Jerusalem.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0188",
           "role": "congregation",
           "hy": "Ի գիշերի համբարձցուք զձե՛ռս մեր",
           "translit": "I kisheri hampartstsook ztse՛ṙs mer In",
-          "en": "the night, let us lift up our hands in"
+          "en": "the night, let us lift up our hands in",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0189",
           "role": "congregation",
           "hy": "սրբութե՛ամբ առ Քեզ, Տէ՛ր։",
           "translit": "srpootya՛mp aṙ Kez, De՛r։ holiness",
-          "en": "to you, Lord."
+          "en": "to you, Lord.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0190",
           "role": "congregation",
           "hy": "Ի ձայն գոհութեան, ա՛մե՛նա՛յն հոգի՛ք,",
           "translit": "I tsayn kohootyan, a՛me՛na՛yn hoki՛k, With",
-          "en": "a voice of thanksgiving let everyone"
+          "en": "a voice of thanksgiving let everyone",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0191",
           "role": "congregation",
           "hy": "օրհնեցէ՛ք զՏէր։",
           "translit": "orhnetse՛k zDer։ bless",
-          "en": "the Lord!"
+          "en": "the Lord!",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0192",
           "role": "congregation",
           "hy": "Զարթի՛ք, փա՛ռք իմ, զարթի՛ք, եւ ես Փոխ.",
           "translit": "Pokh. Zarti՛k, pa՛ṙk im, zarti՛k, yev yes Modulation.",
-          "en": "Arise, my glory, arise! And I shall"
+          "en": "Arise, my glory, arise! And I shall",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0193",
           "role": "congregation",
           "hy": "զարթեայց առաւօտուց. ալէլուիա։",
           "translit": "zartyayts aṙavodoots. alleluia։ arise",
-          "en": "in the morning. Alleluia!"
+          "en": "in the morning. Alleluia!",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0194",
           "role": "congregation",
           "hy": "Զարթի՛ք ընդ զըուարթունս, մանկու՛նք",
           "translit": "Zarti՛k ŭnt zŭvartoons, mangoo՛nk verinŭn Arise",
-          "en": "with the vigilant angels, children of the"
+          "en": "with the vigilant angels, children of the",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0195",
           "role": "congregation",
           "hy": "վերինըն Սիոնի. ալէլուիա։",
           "translit": "Sioni. alleluia։ supernal",
-          "en": "Zion. Alleluia!"
+          "en": "Zion. Alleluia!",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0196",
           "role": "congregation",
           "hy": "Զարթի՛ք, որդի՛ք լուսոյ, ի յօրհնութիւն Հօրըն",
           "translit": "Zarti՛k, vorti՛k looso, i horhnootyoon Horŭn Arise,",
-          "en": "children of light, in praise of the"
+          "en": "children of light, in praise of the",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0197",
           "role": "congregation",
           "hy": "լուսոյ. ալէլուիա։",
           "translit": "looso. alleluia։ Father",
-          "en": "of light. Alleluia!"
+          "en": "of light. Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0198",
           "role": "congregation",
           "hy": "Զարթի՛ք, փրկեա՛լք արեամբ, եւ տո՛ւք",
           "translit": "Zarti՛k, prgya՛lk aryamp, yev do՛ok ŭzpaṙŭs Arise,",
-          "en": "all of you saved by the blood, and give"
+          "en": "all of you saved by the blood, and give",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0199",
           "role": "congregation",
           "hy": "ըզփառըս Փրկողին. ալէլուիա։",
           "translit": "Prgoghin. alleluia։ glory",
-          "en": "to the Savior. Alleluia!"
+          "en": "to the Savior. Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0200",
           "role": "congregation",
           "hy": "Զարթի՛ք, նո՛ր ժողովուրդք՝ նոր երգս առեալ",
           "translit": "Zarti՛k, no՛r joghovoortk՝ nor yerks aṙyal Arise,",
-          "en": "new people, singing a new song to"
+          "en": "new people, singing a new song to",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0201",
           "role": "congregation",
           "hy": "Նորոգողին. ալէլուիա։",
           "translit": "Norokoghin. alleluia։ Him",
-          "en": "who makes all things new. Alleluia!"
+          "en": "who makes all things new. Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0202",
           "role": "congregation",
           "hy": "Զարթի՛ք, հարսո՛ւնք հոգւով՝ սպասեալք",
           "translit": "Zarti՛k, harso՛onk hokvov՝ sbasyalk kalo soorp Arise,",
-          "en": "brides in the Spirit, awaiting the"
+          "en": "brides in the Spirit, awaiting the",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0203",
           "role": "congregation",
           "hy": "գալոյ սուրբ Փեսային. ալէլուիա։",
           "translit": "Pesayin. alleluia։ coming",
-          "en": "of the holy Bridegroom. Alleluia!"
+          "en": "of the holy Bridegroom. Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0204",
           "role": "congregation",
           "hy": "Զարթի՛ք, վառեա՛լք լուսով, ըստ իմաստուն",
           "translit": "Zarti՛k, vaṙya՛lk loosov, ŭsd imasdoon soorp Arise,",
-          "en": "you, who burn with light, like the"
+          "en": "you, who burn with light, like the",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0205",
           "role": "congregation",
           "hy": "սուրբ կուսանացն. ալէլուիա։",
           "translit": "goosanatsn. alleluia։ wise",
-          "en": "holy virgins. Alleluia!"
+          "en": "holy virgins. Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0206",
           "role": "congregation",
           "hy": "Զարթի՛ք, պատրաստեցէ՛ք իւղ լապտերաց",
           "translit": "Zarti՛k, badrasdetse՛k yoogh labderats cherm Arise",
-          "en": "and prepare oil for your lamps with"
+          "en": "and prepare oil for your lamps with",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0207",
           "role": "congregation",
           "hy": "ջերմ արտասուս. ալէլուիա։",
           "translit": "ardasoos. alleluia։ warm",
-          "en": "tears. Alleluia!"
+          "en": "tears. Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0208",
           "role": "congregation",
           "hy": "Զարթի՛ք եւ մի՛ ննջէք, նման յիմար կուսից",
           "translit": "Zarti՛k yev mi՛ nnchek, nman himar goosits Arise",
-          "en": "and sleep not, slumbering like the"
+          "en": "and sleep not, slumbering like the",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0209",
           "role": "congregation",
           "hy": "նիրհէք. ալէլուիա։",
           "translit": "nirhek. alleluia։ foolish",
-          "en": "virgins. Alleluia!"
+          "en": "virgins. Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0210",
           "role": "congregation",
           "hy": "Զարթի՛ք, երկիր պագցուք եւ արտասուօք",
           "translit": "Zarti՛k, yergir baktsook yev ardasvok zays Arise,",
-          "en": "let us fall down and worship with"
+          "en": "let us fall down and worship with",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0211",
           "role": "congregation",
           "hy": "զայս ասասցուօք. ալէլուիա։",
           "translit": "asastook. alleluia։ tears,",
-          "en": "saying։ Alleluia!"
+          "en": "saying։ Alleluia!",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0212",
           "role": "congregation",
           "hy": "Զարթի՛ր, ընդէ՞ր նը՜նջես, Տէ՛ր, մի՛ Փոխ.",
           "translit": "Pokh. Zarti՛r, ŭnte՞r nŭ՜nches, De՛r, mi՛ merjer Modulation.",
-          "en": "Arise, why do you sleep? Lord,"
+          "en": "Arise, why do you sleep? Lord,",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0213",
           "role": "congregation",
           "hy": "մերժեր ըզմեզ ի սպառ։",
           "translit": "ŭzmez i sbaṙ։ do",
-          "en": "not forsake us."
+          "en": "not forsake us.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0214",
           "role": "congregation",
           "hy": "Արի՛, Տէ՛ր, օգնեա՛ մեզ. տացուք անուանըդ",
           "translit": "Ari՛, De՛r, oknya՛ mez. datsook anvanŭt Koom Come,",
-          "en": "Lord, and help us, and we shall give"
+          "en": "Lord, and help us, and we shall give",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0215",
           "role": "congregation",
           "hy": "Քում ըզփառս։",
           "translit": "ŭzpaṙs։ glory",
-          "en": "to your holy name."
+          "en": "to your holy name.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0216",
           "role": "congregation",
           "hy": "Այժմ եւ յաւէտ Հօր եւ Որդւոյ եւ Սուրբ",
           "translit": "Ayjm yev haved Hor yev Vortvo yev Soorp Now",
-          "en": "and forever to the Father and to the Son"
+          "en": "and forever to the Father and to the Son",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0217",
           "role": "congregation",
           "hy": "Հոգւոյն։ Ամէն։",
           "translit": "Hokvooyn. Amen։ and",
-          "en": "to the Holy Spirit. Amen."
+          "en": "to the Holy Spirit. Amen.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0218",
           "role": "congregation",
           "hy": "Փոխ. Զարթուցեալքս ի զբաղմանէ",
           "translit": "Pokh. Zartootsyalks i zpaghmane ‘ki՛she՛ra՛yi՛n Modulation.",
-          "en": "Having arisen from the"
+          "en": "Having arisen from the",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0219",
           "role": "congregation",
           "hy": "‘գի՛շե՛րա՛յի՛ն հանգստենէ։",
           "translit": "hanksdene։ occupation",
-          "en": "of nocturnal repose;"
+          "en": "of nocturnal repose;",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0220",
           "role": "congregation",
           "hy": "Շնորհեսցէ՛ մեզ մարդա՜սէր Տէ՛ր",
           "translit": "Shnorhestse՛ mez marta՜ser De՛r May",
-          "en": "the loving Lord also grant us"
+          "en": "the loving Lord also grant us",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0221",
           "role": "congregation",
           "hy": "մխիթարութիւն եւ ի սփոփանս Եկեղեցւոյ։",
           "translit": "mkhitarootyoon yev i spopans Yegeghetsvo։ consolation",
-          "en": "in the solace of the Church."
+          "en": "in the solace of the Church.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0222",
           "role": "congregation",
           "hy": "Ահիւ եւ դո՛ղո՜ւթեա՛մբ կա՜ցցուք ի յա՜ղօթս։",
           "translit": "Ahiv yev to՛gho՜otya՛mp ga՜tstsook i ha՜ghots: In",
-          "en": "awe and reverence let us stand in prayer."
+          "en": "awe and reverence let us stand in prayer.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0223",
           "role": "congregation",
           "hy": "Եկեալ խոստովանեսցուք ըզյանցանս։",
           "translit": "Yegyal khosdovanestsook ŭzhantsans: Let",
-          "en": "us confess our transgressions."
+          "en": "us confess our transgressions.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0224",
           "role": "congregation",
           "hy": "Եւ գտցո՛ւք ի՜ Քրի՜ստոսէ՛ զքա՛ւո՛ւթի՛ւն ե՛ւ",
           "translit": "Yev kdtso՛ok i՜ Kri՜sdose՛ zka՛vo՛otyo՛on ye՛v And",
-          "en": "we shall find expiation and great mercy"
+          "en": "we shall find expiation and great mercy",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0225",
           "role": "congregation",
           "hy": "ը՛զմե՛ծ զողորմութիւն։",
           "translit": "ŭ՛zme՛dz zoghormootyoon։ from",
-          "en": "Christ."
+          "en": "Christ.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0226",
           "role": "congregation",
           "hy": "Անբաժանելի եւ համագոյ Կցորդ.",
           "translit": "Anpajaneli yev hamako Gtsort. Response.",
-          "en": "Indivisible and coessential Trinity,"
+          "en": "Indivisible and coessential Trinity,",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0227",
           "role": "congregation",
           "hy": "Երրորդութեանդ, համաձայնեալք ընդ զօրս",
           "translit": "Yerrortootyant, hamatsaynyalk ŭnt zors one",
-          "en": "in unity with the heavenly powers, we"
+          "en": "in unity with the heavenly powers, we",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0228",
           "role": "congregation",
           "hy": "երկնից, փառս մատուցանեմք։",
           "translit": "yergnits, paṙs madootsanemk։ offer",
-          "en": "Glory."
+          "en": "Glory.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0229",
           "role": "congregation",
           "hy": "Փա՜ռք Քեզ, որ յանարուեստ յաթոռ",
           "translit": "Pa՜ṙk Kez, vor hanarvesd hatoṙ partsratsyal՝ Glory",
-          "en": "to You, who sit upon your uncreated"
+          "en": "to You, who sit upon your uncreated",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0230",
           "role": "congregation",
           "hy": "բարձրացեալ՝ հանգչիս, սո՛ւրբ Աստուած՝",
           "translit": "hankchis, so՛orp Asdvadz՝ hzor yev throne,",
-          "en": "Holy God, mighty, worker of"
+          "en": "Holy God, mighty, worker of",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0231",
           "role": "congregation",
           "hy": "հզօր եւ սքանչելագործ։",
           "translit": "skanchelakordz։ wonders.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0232",
           "role": "congregation",
           "hy": "Փա՜ռք Քեզ, որ յանէից գոյացուցեր",
           "translit": "Pa՜ṙk Kez, vor haneits kooyatsootser Glory",
-          "en": "to You, who created everying out"
+          "en": "to You, who created everying out",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0233",
           "role": "congregation",
           "hy": "զամենայն արարածս, սո՛ւրբ Աստուած՝",
           "translit": "zamenayn araradzs, so՛orp Asdvadz՝ anjaṙ Hor of",
-          "en": "nothing, Holy God, incomprehensible,"
+          "en": "nothing, Holy God, incomprehensible,",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0234",
           "role": "congregation",
           "hy": "անճառ Հօր անեղ Որդի։",
           "translit": "anegh Vorti։ Father",
-          "en": "of the uncreated Son."
+          "en": "of the uncreated Son.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0235",
           "role": "congregation",
           "hy": "Փա՜ռք Քեզ, որ տեսչութեամբ խնամես",
           "translit": "Pa՜ṙk Kez, vor deschootyamp khnames Glory",
-          "en": "to You, who watchfully care for all"
+          "en": "to You, who watchfully care for all",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0236",
           "role": "congregation",
           "hy": "զամենայն արարածս, սո՛ւրբ Աստուած՝",
           "translit": "zamenayn araradzs, so՛orp Asdvadz՝ your",
-          "en": "creatures, Holy God, inexhaustible,"
+          "en": "creatures, Holy God, inexhaustible,",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0237",
           "role": "congregation",
           "hy": "Բղխումն անսպառ աղբեր։",
           "translit": "Pghkhoomn ansbaṙ aghper։ infinite",
-          "en": "source of love."
+          "en": "source of love.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0238",
           "role": "congregation",
           "hy": "Տէ՛ր, ժողովրդապետք Եկեղեցւոյ ի Քէն",
           "translit": "De՛r, joghovrtabedk Yegeghetsvo i Ken Lord,",
-          "en": "the leaders of the people of the Church"
+          "en": "the leaders of the people of the Church",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0239",
           "role": "congregation",
           "hy": "հայցեն՝ ասելով. «Հովի՛ւ բարի, ողորմեա՛",
           "translit": "haytsen՝ aselov. «Hovi՛v pari, voghormya՛ look",
-          "en": "to you saying, Good Shepherd, have"
+          "en": "to you saying, Good Shepherd, have",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0240",
           "role": "congregation",
           "hy": "բանաւոր հօտի»։",
           "translit": "panavor hodi»։ mercy",
-          "en": "upon your rational flock."
+          "en": "upon your rational flock.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0241",
           "role": "congregation",
           "hy": "Յաւիտեանց յաւիտենից։",
           "translit": "Havidya՛nts havideni՛ts։ Forever",
-          "en": "and ever."
+          "en": "and ever.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0242",
           "role": "congregation",
           "hy": "Ամէն. ալէլուիա, ալէլուիա, ալէլուիա։",
           "translit": "Ame՜n. alle՛luia՜, alle՛luia՜, alleluia։ Amen.",
-          "en": "Alleluia. Alleluia. Alleluia."
+          "en": "Alleluia. Alleluia. Alleluia.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0243",
           "role": "congregation",
           "hy": "Ամէն. ալէլուիա, ալէլուիա, ալէլուիա։",
           "translit": "Amen. alleluia, alleluia, alleluia։ Amen.",
-          "en": "Alleluia. Alleluia. Alleluia."
+          "en": "Alleluia. Alleluia. Alleluia.",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0244",
           "role": "congregation",
           "hy": "ծագեա։” on page 12",
           "translit": "page 12 your",
-          "en": "light.” on page 12"
+          "en": "light.” on page 12",
+          "tiers": [
+            "full"
+          ]
         }
       ]
     },
@@ -1862,6 +2910,7 @@
           "translit": "i mkhitarootyoon yev i spopans dgarootyan for",
           "en": "consolation and for the relief of our",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1872,6 +2921,7 @@
           "translit": "meroom weakness;",
           "en": "",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1882,6 +2932,7 @@
           "translit": "yev yegyalks miapan hokevor yerkov • i and",
           "en": "having come together singing spiritual",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1892,6 +2943,7 @@
           "translit": "paṙapanootyoon yev i badiv amenasoorp songs",
           "en": "· and glorification in honor of the",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1902,6 +2954,7 @@
           "translit": "anvan Dyaṙn mero yev Prgchin Hisoosi all-holy",
           "en": "name of our Lord and Savior Jesus",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1912,6 +2965,7 @@
           "translit": "Krisdosi՝ Christ;",
           "en": "",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1922,6 +2976,7 @@
           "translit": "ahiv ev toghootyamp gatstsook haghots with",
           "en": "awe and in trembling let us stand in",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1932,6 +2987,7 @@
           "translit": "aṙachi Nora • Yev kohatsarook zNmane i prayer",
           "en": "before him. · And let us give thanks to",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1942,6 +2998,7 @@
           "translit": "kisherayin jamoos haysmig vasn iravants yev him",
           "en": "in this hour of the night for his law and",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1952,6 +3009,7 @@
           "translit": "artarootyan Nora. for",
           "en": "his righteousness.",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1962,6 +3020,7 @@
           "translit": "vor ŭndryats zmez voghormootyampn He",
           "en": "chose us by his mercy · and made it",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1972,6 +3031,7 @@
           "translit": "Yoorov • yev shnorhyats mez perel possible",
           "en": "for us to imitate the heavenly angels;",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -1982,6 +3042,7 @@
           "translit": "znmanootyoon yergnayin hreshdagatsn i for",
           "en": "us too to become worshipers of the Lord",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -2889,7 +3950,6 @@
           "translit": "Miadzi՛nŭt Hor, mo՛oydz zis haṙakasd makoor Մ.",
           "en": "Only begotten, take me to the chamber,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2900,7 +3960,6 @@
           "translit": "harsanyatst: of",
           "en": "your pure wedding.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2911,7 +3970,6 @@
           "translit": "Horjam kas paṙok hahakin avoorn, hishya՛ Յ.",
           "en": "When you come into, the glory of your",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2922,7 +3980,6 @@
           "translit": "zis, Krisdo՛s։ kingdom,",
           "en": "remember me Christ.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2933,7 +3990,6 @@
           "translit": "Noroko՛gh hnootyants, norokya՛ yev zis, Ն.",
           "en": "Restorer of the passed, restore also me,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2944,7 +4000,6 @@
           "translit": "noro՛k zartarya։ waken",
           "en": "me again.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2955,7 +4010,6 @@
           "translit": "Shnorhado՛o paryats, shnorhya՛ zkavootyoon, Շ.",
           "en": "Giver of good things, grant forgiveness,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2966,7 +4020,6 @@
           "translit": "shnorhya՛ ztoghootyoon։ grant",
           "en": "protection.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2977,7 +4030,6 @@
           "translit": "Oorakhatso՛, De՛r, vokvooys prgootyamp, Ո.",
           "en": "Make us rejoice Lord, as saved spirits,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2988,7 +4040,6 @@
           "translit": "vooyr vasn yem i sook: wherefore",
           "en": "we watch.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -2999,7 +4050,6 @@
           "translit": "Char mshagoghin char sermants norin Չ.",
           "en": "Dry up the seeds, of the evil planter, dry",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3010,7 +4060,6 @@
           "translit": "choratso՛ zbdooghn։ up",
           "en": "his fruit.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3021,7 +4070,6 @@
           "translit": "Barkevi՛ch paryats, barkevya՛ imots bardyatss Պ.",
           "en": "Forgiver of sins, forgive me, of all my",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3032,7 +4080,6 @@
           "translit": "toghootyoon։ debts.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3043,7 +4090,6 @@
           "translit": "Cho՛or shnorhya achatss՝ cherm heghool Ջ.",
           "en": "Grant water to my eyes, warm flow of",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3054,7 +4100,6 @@
           "translit": "zardosr, chnchel ŭzհantsans: tears,",
           "en": "to wash away my sins.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3065,7 +4110,6 @@
           "translit": "Ṙedi՛nt kaghtsoo, ṙam hokvooys arpo՛, ṙa՛h Ռ.",
           "en": "Filter of new wine, filter my soul, show",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3076,7 +4120,6 @@
           "translit": "tsooyts ints looso։ me",
           "en": "the road to light.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3087,7 +4130,6 @@
           "translit": "Se՛r anoon Hisoos, sirov Kov jmlya՛ sird im Ս.",
           "en": "Love by name Jesus, crush with your love,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3098,7 +4140,6 @@
           "translit": "kareghen։ my",
           "en": "stony heart.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3109,7 +4150,6 @@
           "translit": "Vasŭn ktootyan, vasn voghormootyan Վ.",
           "en": "For your mercy’s sake, in your",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3120,7 +4160,6 @@
           "translit": "versdi՛n getso: compassion,",
           "en": "make me live again.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3131,7 +4170,6 @@
           "translit": "Denchalvooyt deslyamp do՛or ints hakenal, Տ.",
           "en": "By your vision Lord, assuage my desire,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3142,7 +4180,6 @@
           "translit": "De՛r Hisoos Krisdos։ beloved",
           "en": "Christ Jesus.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3153,7 +4190,6 @@
           "translit": "Rapo՛ont yergnavor, rodya՛ zashagerds ramits Ր.",
           "en": "Heavenly teacher, join this disciple, to",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3164,7 +4200,6 @@
           "translit": "yergnaynots։ celestial",
           "en": "bands.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3175,7 +4210,6 @@
           "translit": "Tsogh aryan Ko, De՛r, tsoghya՛ i hokis, Ց.",
           "en": "With your blood as dew, Lord bedew my",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3186,7 +4220,6 @@
           "translit": "tsndzastse antsn im։ soul,",
           "en": "that I may rejoice.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3197,7 +4230,6 @@
           "translit": "Yoodzyalŭs meghok yoodzyal aghachem Ւ.",
           "en": "Languishing in sin, wearily I beg, Lord,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3208,7 +4240,6 @@
           "translit": "yoosel ints paris։ make",
           "en": "me do good.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3219,7 +4250,6 @@
           "translit": "Prgi՛ch polorits, poota՛ zis prgel portsootyants Փ.",
           "en": "Savior of all, from the temptations, of sins",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3230,7 +4260,6 @@
           "translit": "meghats։ rescue",
           "en": "me.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3241,7 +4270,6 @@
           "translit": "Kavi՛ch hantsanats, kavya՛ zorhnapans՝ Kez Ք.",
           "en": "Cleanser of sins, cleanse me that I may,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3252,7 +4280,6 @@
           "translit": "yerkel zpaṙs։ sing",
           "en": "glory to you.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3263,7 +4290,6 @@
           "translit": "Srpoohvo Asdvadzadznin parekhosootyamp։ By",
           "en": "the intercession of the holy Mother of",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3274,7 +4300,6 @@
           "translit": "God.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3285,7 +4310,6 @@
           "translit": "Hishya՛ De՛r, yev voghormya՛։ Remember",
           "en": "us, Lord, and have mercy.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -3570,7 +4594,6 @@
           "translit": "Nayya՛ts, De՛r parerar, voghormootyamp Kov Beneficent",
           "en": "Lord, in your mercy look down",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3581,7 +4604,6 @@
           "translit": "hergrbakoos yev i paṙapanichs anvant Koom upon",
           "en": "us, who worship and glorify your holy",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3592,7 +4614,6 @@
           "translit": "srpo։ name.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3603,7 +4624,6 @@
           "translit": "De՛r zorootyants, khaghaghatso՛ zantsins mer Lord",
           "en": "of hosts, give us peace and protect us",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3614,7 +4634,6 @@
           "translit": "hamenayn sadanayagan khṙovootyants yev against",
           "en": "every satanic affliction and worldly",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3625,7 +4644,6 @@
           "translit": "hashkharhagan zposanats։ distraction.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3636,7 +4654,6 @@
           "translit": "Zhreshdag khaghaghootyan Ko aṙakya՛ aṙ Send",
           "en": "us your angel of peace to come and",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3647,7 +4664,6 @@
           "translit": "mez, vor yegyal bahestse zmez ankhṙovs keep",
           "en": "us untroubled day and night, in our",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3658,7 +4674,6 @@
           "translit": "i dŭve yev i kisheri, hartnootyan yev i waking",
           "en": "and sleeping hours.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3669,7 +4684,6 @@
           "translit": "hanksdyan meroom։",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3680,7 +4694,6 @@
           "translit": "Vorbes zi parebashdootyamp yev So",
           "en": "that serving you devoutly and worthily in",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3691,7 +4704,6 @@
           "translit": "arjanavorabes Kez Dyaṙnt dzaṙayelov i gyans this",
           "en": "life, Lord, we may attain your eternal,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3702,7 +4714,6 @@
           "translit": "haysosig՝ jamanestsook havidenagan yergnits heavenly",
           "en": "kingdom, which you have prepared",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3713,7 +4724,6 @@
           "translit": "arkayootyan Ko, zor badrasdetser i sgzpane from",
           "en": "the beginning for your saints.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3724,7 +4734,6 @@
           "translit": "ashkharhi srpots Kots։",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3735,7 +4744,6 @@
           "translit": "",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3746,7 +4754,6 @@
           "translit": "Yev ŭnt nosin kohanalov paṙavorestsook And",
           "en": "with them we shall thankfully glorify",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3757,7 +4764,6 @@
           "translit": "zHayr yev zOrti yev zSoorp Hokit ayjm yev the",
           "en": "Father and the Son and the Holy Spirit.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3768,7 +4774,6 @@
           "translit": "mishd yev havidyans havidenits. amen։ Now",
           "en": "and always and unto the ages of ages.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3779,7 +4784,6 @@
           "translit": "Amen.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3790,7 +4794,6 @@
           "translit": "Orhnyal Der mer Hisoos Krisdos: Blessed",
           "en": "be our Lord Jesus Christ.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3801,7 +4804,6 @@
           "translit": "Amen։ Amen.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3812,7 +4814,6 @@
           "translit": "Alleluia։ Praise",
           "en": "the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -3823,7 +4824,6 @@
           "translit": "Alleluia։ Praise",
           "en": "the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4141,7 +5141,6 @@
           "translit": "Der yev Hokit Soorp, vor i paṙs Asdvadz ŭnt And",
           "en": "you are Lord, Holy Spirit, who are in",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4152,7 +5151,6 @@
           "translit": "Hor։ Amen։ glory",
           "en": "God with the Father. Amen.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4163,7 +5161,6 @@
           "translit": "Pokh. Yev hamenayn jham orhnemk Modulation.",
           "en": "And at all times we bless you,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4174,7 +5171,6 @@
           "translit": "zKez, De՛r, yev kovemk zanoon soorp Ko O",
           "en": "Lord, and we praise your holy name",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4185,7 +5181,6 @@
           "translit": "havidyan yev havidyans havidenits։ Arjhani՛ forever",
           "en": "and unto the ages of ages. Make us",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4196,7 +5191,6 @@
           "translit": "ara, De՛r, zors zays khaghaghootyamp. yev worthy,",
           "en": "Lord, and keep us this day in peace",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4207,7 +5201,6 @@
           "translit": "aṙants meghats bahya՛ zmez։ Orhnyal yes, and",
           "en": "without sin. Blessed are you, Lord, God",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4218,7 +5211,6 @@
           "translit": "De՛r Asdvadz hartsn merots. kovyal yev of",
           "en": "our Fathers. Praised and glorified is your",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4229,7 +5221,6 @@
           "translit": "paṙavoryal e anoon soorp Ko havidyans։ holy",
           "en": "name forever. Amen.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4240,7 +5231,6 @@
           "translit": "Amen։",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4251,7 +5241,6 @@
           "translit": "Orhnya՛l Der, ooso՛ intz zartarootyoons Ko։ Blessed",
           "en": "are you, Lord, teach me your statutes;",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4262,7 +5251,6 @@
           "translit": "Orhnya՛l Der, ooso՛ intz zartarootyoons Ko։ blessed",
           "en": "are you, Lord, teach me your statutes;",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4273,7 +5261,6 @@
           "translit": "Orhnya՛l Der, ooso՛ intz zartarootyoons blessed",
           "en": "are you, Lord, teach me your statutes.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4284,7 +5271,6 @@
           "translit": "Ko։ De՛r, abaven yegher mez azke hazk։ Lord,",
           "en": "you have been our refuge from",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4295,7 +5281,6 @@
           "translit": "Yes aghachem, De՛r, voghormya՛ intz yev generation",
           "en": "to generation. I beseech you,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4306,7 +5291,6 @@
           "translit": "pjhshgya՛ zantzn im. yes megha Kez։ Lord,",
           "en": "have mercy upon me and heal my soul,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4317,7 +5301,6 @@
           "translit": "for",
           "en": "I have sinned against you.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4328,7 +5311,6 @@
           "translit": "Tso՛oyts mez, De՛r, zoghormootyoons Show",
           "en": "unto us, Lord, your mercies and grant",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4339,7 +5321,6 @@
           "translit": "Ko. yev zprgootyoons Ko do՛or mez։ De՛r, us",
           "en": "your salvation. Lord, your mercy is for",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4350,7 +5331,6 @@
           "translit": "voghormootyoon Ko havidyan. zkordzs ever,",
           "en": "forsake not the works of your hands.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4361,7 +5341,6 @@
           "translit": "tzeṙats Kots mi՛ andes aṙner։ De՛r im, zKez My",
           "en": "Lord, I have made you my refuge, teach",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4372,7 +5351,6 @@
           "translit": "abaven intz arari. ooso՛ intz aṙnel zgams me",
           "en": "to do your will, for you are my God.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4383,7 +5361,6 @@
           "translit": "Ko, zi Too yes Asdvadz im։ I Ken e, De՛r, From",
           "en": "you, Lord, is the fountain of life and",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4394,7 +5371,6 @@
           "translit": "aghpyoor gentanootyan, yev loosov by",
           "en": "the light of your countenance do we see",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4405,7 +5381,6 @@
           "translit": "yeresats Kots desanemk zlooys։ Dzakya՛ light.",
           "en": "Send forth your mercies upon them",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4416,7 +5391,6 @@
           "translit": "zoghormootyoons Ko, vork janachen zKez, that",
           "en": "know you, Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4427,7 +5401,6 @@
           "translit": "De՛r։",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4459,7 +5432,6 @@
           "translit": "partzoons Hor yev Vortvo yev Hokvooyn highest",
           "en": "to the Father and to the Son and to",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4470,7 +5442,6 @@
           "translit": "Srpo ayjhm yev mishd yev havidyans the",
           "en": "Holy Spirit, now and always and unto",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4481,7 +5452,6 @@
           "translit": "havidenits։ Amen։ the",
           "en": "ages of ages. Amen.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4535,6 +5505,7 @@
           "translit": "Vorbes prgetsan sirelik Ko, That",
           "en": "your beloved may be delivered; save us",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -4687,7 +5658,6 @@
           "translit": "Dyaṙnŭntaṙachin”) of",
           "en": "the Birthgiver-of-GOD, and for the Fortieth-day",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4760,7 +5730,6 @@
           "translit": "aghachestsook։ the",
           "en": "Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4792,7 +5761,6 @@
           "translit": "yebisgobosats zDer aghachestsook։ beseech",
           "en": "the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4835,7 +5803,6 @@
           "translit": "aghachestsook։ beseech",
           "en": "the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4878,7 +5845,6 @@
           "translit": "Yegeghetsvo zDer aghachestsook։ let",
           "en": "us beseech the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -4889,7 +5855,6 @@
           "translit": "",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4932,7 +5897,6 @@
           "translit": "aghachestsook։",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -4975,7 +5939,6 @@
           "translit": "tshnamyats zDer aghachestsook։ let",
           "en": "us beseech the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5018,7 +5981,6 @@
           "translit": "aghachestsook։ the",
           "en": "Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5061,7 +6023,6 @@
           "translit": "parootyan, zDer aghachestsook։ several",
           "en": "good destinations, let us beseech the",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -5072,7 +6033,6 @@
           "translit": "Lord.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5115,7 +6075,6 @@
           "translit": "Lord.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5158,7 +6117,6 @@
           "translit": "aghachestsook։",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -5169,7 +6127,6 @@
           "translit": "",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5212,7 +6169,6 @@
           "translit": "aghachestsook։ holy",
           "en": "Church of God, let us beseech the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5255,7 +6211,6 @@
           "translit": "aghachestsook։ name",
           "en": "of Christ, let us beseech the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5298,7 +6253,6 @@
           "translit": "nnchetsin, zDer aghachestsook։ right",
           "en": "faith, let us beseech the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5341,7 +6295,6 @@
           "translit": "aghachestsook։ beseech",
           "en": "the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -5360,63 +6313,108 @@
           "role": "congregation",
           "hy": "Սուրբ Աստուա՛ծ, սուրբ եւ հզօր, սուրբ եւ",
           "translit": "Soorp Asdva՛dz, soorp yev hzor, soorp yev Holy",
-          "en": "God, Holy Mighty, Holy Immortal,"
+          "en": "God, Holy Mighty, Holy Immortal,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0555",
           "role": "congregation",
           "hy": "անմահ, որ յարեար ի մեռելոց. ողորմեա՛",
           "translit": "anmah, vor haryar i merelots. voghormya՛ who",
-          "en": "rose from the dead, have mercy upon"
+          "en": "rose from the dead, have mercy upon",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0556",
           "role": "congregation",
           "hy": "մեզ։ (Երիցս կրկնեա՛)",
           "translit": "mez։ (Yeritss grgnya՛) us.",
-          "en": "(Repeat thrice)"
+          "en": "(Repeat thrice)",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0557",
           "role": "congregation",
           "hy": "Փառաւորեալ եւ օրհնեալ, միշտ սուրբ Կոյս",
           "translit": "Paŗavoryal yev orhnyal, mishd soorp Gooys Glorified",
-          "en": "and blessed ever-holy Virgin,"
+          "en": "and blessed ever-holy Virgin,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0558",
           "role": "congregation",
           "hy": "Աստուածածի՛ն Մարիամ, մա՛յր Քրիստոսի,",
           "translit": "Asdvadzadzi՛n Mariam, ma՛yr Krisdosi, mado՛ Mother-of-God",
-          "en": "Mary, Mother of Christ, offer"
+          "en": "Mary, Mother of Christ, offer",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0559",
           "role": "congregation",
           "hy": "մատո՛ զաղաչանս մեր Որդւոյ քո եւ",
           "translit": "zaghachans mer Vortvo ko yev Asdoodzo our",
-          "en": "supplications to your Son and our God,"
+          "en": "supplications to your Son and our God,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0560",
           "role": "congregation",
           "hy": "Աստուծոյ մերոյ։",
           "translit": "mero։",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0561",
           "role": "congregation",
           "hy": "ՓՓրրկկեելլ զզմմեեզզ իի փփոորրձձոոււթթեեննէէ եեււ յյաամմեեննաայյնն",
           "translit": "Prgel zmez i portsootene yev hamenayn To",
-          "en": "save us from all our trials and"
+          "en": "save us from all our trials and",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0562",
           "role": "congregation",
           "hy": "վվտտաաննգգիիցց մմեերրոոցց։։",
           "translit": "vdankits merots։ tribulations.",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -5468,6 +6466,7 @@
           "translit": "aghachanats merots՝ parekhosootyamp by",
           "en": "the Lord God through the intercession",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5611,6 +6610,7 @@
           "translit": "I sgzpane zergins hergnits. The",
           "en": "heaven of heavens out of nothing",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5621,6 +6621,7 @@
           "translit": "Yev zergnayin zors anmarmnots, And",
           "en": "the heavenly incorporeal hosts",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5631,6 +6632,7 @@
           "translit": "Imanalyatsŭn zvartnots. Of",
           "en": "intelligible watcher angels",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5641,6 +6643,7 @@
           "translit": "Yev ŭzkali darerts kaṙits, And",
           "en": "the four sensible elements",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5651,6 +6654,7 @@
           "translit": "Hagaṙagats miapanits, Opposite",
           "en": "yet agreeing,",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5661,6 +6665,7 @@
           "translit": "Vorov haved paṙapani By",
           "en": "which is ever glorified",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5671,6 +6676,7 @@
           "translit": "Yerrortootyoonn anjaṙeli: The",
           "en": "ineffable Trinity.",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5681,6 +6687,7 @@
           "translit": "Yereksrpyan Mi Derootyoon, The",
           "en": "thrice-holy single Godhead",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5691,6 +6698,7 @@
           "translit": "Miov pnootyamp Asdvadzootyoon, In",
           "en": "one nature Divinity,",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -5701,6 +6709,7 @@
           "translit": "Looysn, vor anegh ararchagan The",
           "en": "uncreated creative light",
           "tiers": [
+            "medium",
             "full"
           ]
         },
@@ -6113,7 +7122,6 @@
           "translit": "arastse i vera mer։ Dern amenagal getsoostse grace",
           "en": "of his mercy upon us. May the Lord",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6231,7 +7239,6 @@
           "translit": "zharootyoonn Ko orhnemk yev paṙavoremk։ together",
           "en": "with the heavenly powers we offer",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6242,7 +7249,6 @@
           "translit": "Yev ŭnt yergnayin zorsn madootsanemk blessing",
           "en": "and glory to the Father and to the",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6253,7 +7259,6 @@
           "translit": "zorhnootyoon yev zpaṙs ŭnt Hor yev ŭnt Holy",
           "en": "Spirit now and forever and unto the",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6264,7 +7269,6 @@
           "translit": "Srpo Hokvooyt ayjhm yev mishd yev ages",
           "en": "of ages. Amen.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6275,7 +7279,6 @@
           "translit": "havidyans havidenits։ Amen։",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6286,7 +7289,6 @@
           "translit": "",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -6373,7 +7375,6 @@
           "translit": "yev mek toghoomk merots bardabanats: against",
           "en": "us. And lead us not into temptation,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6384,7 +7385,6 @@
           "translit": "Yev mi՛ danir zmez i portzootyoon: Ayl but",
           "en": "deliver us from evil.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6395,7 +7395,6 @@
           "translit": "prgya՛ zmez i chare:",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6406,7 +7405,6 @@
           "translit": "Zi Ko e arkayootyoon yev zorootyoon yev For",
           "en": "thine is the kingdom and the power",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6417,7 +7415,6 @@
           "translit": "paṙk havidyans. amen։ and",
           "en": "the glory forever. Amen.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -6460,7 +7457,6 @@
           "translit": "hantsanatsn toghootyoon shnorhya՛, i manifold",
           "en": "transgressions grant forgiveness,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6652,7 +7648,6 @@
           "translit": "mahvamp zmah gokhyats Trampling",
           "en": "death with death!",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6663,7 +7658,6 @@
           "translit": "yev harootyampn Yoorov By",
           "en": "his resurrection,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6674,7 +7668,6 @@
           "translit": "mez zgyans barkevyats: He",
           "en": "granted us life!",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6685,7 +7678,6 @@
           "translit": "Nma՝ pa՜ṙk Glory",
           "en": "to Him forever. Amen.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6696,7 +7688,6 @@
           "translit": "havidyans: Amen:",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6707,7 +7698,6 @@
           "translit": "Yev yevs khaghaghootyan zder Again",
           "en": "for peace, let us beseech the Lord.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6718,7 +7708,6 @@
           "translit": "aghachestsook: Ŭngal, getso՛ yev voghormya՛: Receive",
           "en": "us, save us, and have mercy.",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6729,7 +7718,6 @@
           "translit": "Orhnootyoon yev paṙk Hor yev Vortvo ♰♰ ♰♰",
           "en": "Blessing and glory to the Father and to",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6740,7 +7728,6 @@
           "translit": "yev Hokvooyn Srpo ayjhm yev mishd yev the",
           "en": "Son and to the Holy Spirit now and",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6751,7 +7738,6 @@
           "translit": "havidyans havidenits։ Amen։ forever",
           "en": "and unto the ages of ages. Amen.",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -6805,7 +7791,6 @@
           "translit": "yev tsndzootyoon ashkharhi dznar zPann and",
           "en": "gave birth to the Word of GOD,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6816,7 +7801,6 @@
           "translit": "Asdvadz.",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6827,7 +7811,6 @@
           "translit": "aghachemk: we",
           "en": "beseech:",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -6903,7 +7886,6 @@
           "translit": "aṙnel khaghaghootyoon hergins yev hergri. to",
           "en": "make peace in the heavens and upon the",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6914,7 +7896,6 @@
           "translit": "earth,",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6925,7 +7906,6 @@
           "translit": "aghachemk: we",
           "en": "beseech:",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -6936,7 +7916,6 @@
           "translit": "",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -7001,7 +7980,6 @@
           "translit": "linil hagaṙagamarditsn ՚i baderazmi. by",
           "en": "being our defender in battle,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -7012,7 +7990,6 @@
           "translit": "aghachemk: we",
           "en": "beseech:",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -7023,7 +8000,6 @@
           "translit": "",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -7088,7 +8064,6 @@
           "translit": "dngestsi ser yev artarootyoon ՚i hergri. that",
           "en": "love and justice may be planted upon",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -7099,7 +8074,6 @@
           "translit": "the",
           "en": "earth,",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -7110,7 +8084,6 @@
           "translit": "aghachemk: we",
           "en": "beseech:",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -7186,7 +8159,6 @@
           "translit": "plantings,",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -7197,7 +8169,6 @@
           "translit": "aṙ ՚i zvarjali linil amenayn hargavor bidooyits so",
           "en": "that they may pleasantly fulfill all of our",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -7208,7 +8179,6 @@
           "translit": "merots. needs,",
           "en": "",
           "tiers": [
-            "medium",
             "full"
           ]
         },
@@ -7219,7 +8189,6 @@
           "translit": "aghachemk: we",
           "en": "beseech:",
           "tiers": [
-            "medium",
             "full"
           ]
         }
@@ -7238,63 +8207,95 @@
           "role": "congregation",
           "hy": "Աղաչեա՛ վասն մեր զառ ՚ի քէն",
           "translit": "Aghachya՛ vasn mer zaṙ ՚i ken zmarmnatsyaln For",
-          "en": "our sake, beseech GOD who was"
+          "en": "our sake, beseech GOD who was",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0723",
           "role": "congregation",
           "hy": "զմարմնացեալն Աստուած.",
           "translit": "Asdvadz. embodied",
-          "en": "from you,"
+          "en": "from you,",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0724",
           "role": "congregation",
           "hy": "զի միաբանեսցէ զԵկեղեցի իւր սուրբ,",
           "translit": "zi miapanestse zEgeghetsi yoor soorp, that",
-          "en": "he may unite his Holy Church,"
+          "en": "he may unite his Holy Church,",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0725",
           "role": "congregation",
           "hy": "շինեալ ՚ի վերայ հիման Առաքելոց եւ",
           "translit": "shinyal ՚i vera himan Aṙakelots yev built",
-          "en": "upon the foundation of apostles and"
+          "en": "upon the foundation of apostles and",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0726",
           "role": "congregation",
           "hy": "Մարգարէից.",
           "translit": "Markareits. prophets,",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0727",
           "role": "congregation",
           "hy": "պահել անարատ մինչեւ յօր երեւելոյ",
           "translit": "bahel anarad minchev hor yerevelo Kalsdyan to",
-          "en": "keep it spotless until the appearance of his"
+          "en": "keep it spotless until the appearance of his",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0728",
           "role": "congregation",
           "hy": "Գալստեան իւրոյ.",
           "translit": "yooro. Coming,",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0729",
           "role": "congregation",
           "hy": "աղաչեմք։",
           "translit": "aghachemk: we",
-          "en": "beseech:"
+          "en": "beseech:",
+          "tiers": [
+            "full"
+          ]
         },
         {
           "id": "chunk_0730",
           "role": "congregation",
           "hy": "——ՄՄաայյրր սսոոււրրբբ բբաարրեեխխօօսսեեաա՛՛։։",
           "translit": "",
-          "en": ""
+          "en": "",
+          "tiers": [
+            "full"
+          ]
         }
       ]
     },
@@ -7311,49 +8312,82 @@
           "role": "congregation",
           "hy": "Աղաչեա՛ վասն մեր Սրբուհի՜.",
           "translit": "Aghachya՛ vasn mer Srpoohi՜. Holy",
-          "en": "Mother, for our sake,"
+          "en": "Mother, for our sake,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0732",
           "role": "congregation",
           "hy": "զՄիածին քո զՈրդին,",
           "translit": "zMiadzin ko zOrtin, beseech",
-          "en": "your Only-begotten Son,"
+          "en": "your Only-begotten Son,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0733",
           "role": "congregation",
           "hy": "եւ վասն հոգւոցն հանգուցելոց՝",
           "translit": "yev vasn hokvotsn hankootselots՝ and",
-          "en": "for the sake the souls who are at rest,"
+          "en": "for the sake the souls who are at rest,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0734",
           "role": "congregation",
           "hy": "ընդունիլ յարքայութիւնն երկնից,",
           "translit": "ŭntoonil harkayootyoonn yergnits, to",
-          "en": "be received into the Kingdom of heaven,"
+          "en": "be received into the Kingdom of heaven,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0735",
           "role": "congregation",
           "hy": "եւ տալ մասն եւ բաժին ընդ սուրբս",
           "translit": "yev dal masn yev pajhin ŭnt soorps amenayn. and",
-          "en": "to give them part and portion with all"
+          "en": "to give them part and portion with all",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0736",
           "role": "congregation",
           "hy": "ամենայն.",
           "translit": "the",
-          "en": "saints,"
+          "en": "saints,",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0737",
           "role": "congregation",
           "hy": "աղաչեմք։",
           "translit": "aghachemk: we",
-          "en": "beseech:"
+          "en": "beseech:",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -7370,21 +8404,35 @@
           "role": "congregation",
           "hy": "Եւ եւս՝ առաւել զյորդորումն սիրոյ,",
           "translit": "Yev yevs՝ aṙavel zhortoroomn siro, And,",
-          "en": "moreover, the encouragement of love"
+          "en": "moreover, the encouragement of love",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0739",
           "role": "congregation",
           "hy": "եւ զգործս բարեաց պարգեւել մեզ.",
           "translit": "yev zkordzs paryats barkevel mez. and",
-          "en": "to do good works"
+          "en": "to do good works",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0740",
           "role": "congregation",
           "hy": "խնդրեմք։",
           "translit": "khntremk: we",
-          "en": "ask."
+          "en": "ask.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -7401,14 +8449,23 @@
           "role": "congregation",
           "hy": "Զանձինս մեր եւ զմիմեանս Տեառն Աստուծոյ",
           "translit": "Zantzins mer yev zmimyans Dyaṙn Asdoodzo Let",
-          "en": "us commit ourselves and one another"
+          "en": "us commit ourselves and one another",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0742",
           "role": "congregation",
           "hy": "ամենակալին յանձն արասցուք։",
           "translit": "amenagalin hantzn arastsook: unto",
-          "en": "the Lord GOD Almighty."
+          "en": "the Lord GOD Almighty.",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -7425,21 +8482,35 @@
           "role": "congregation",
           "hy": "Ողորմեաց մեզ, Տէր Աստուած մեր, ըստ",
           "translit": "Voghormyats mez, Der Asdvadz mer, ŭsd Have",
-          "en": "mercy upon us, Lord our GOD,"
+          "en": "mercy upon us, Lord our GOD,",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0744",
           "role": "congregation",
           "hy": "մեծի ողորմութեան քում.",
           "translit": "medzi voghormootyan koom. according",
-          "en": "to your great mercy;"
+          "en": "to your great mercy;",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         },
         {
           "id": "chunk_0745",
           "role": "congregation",
           "hy": "ասասցուք ամենեքեան միաբանութեամբ։",
           "translit": "asastsook amenekyan miapanootyamp: let",
-          "en": "us all say in one accord:"
+          "en": "us all say in one accord:",
+          "tiers": [
+            "medium",
+            "full"
+          ]
         }
       ]
     },
@@ -7456,7 +8527,12 @@
           "role": "congregation",
           "hy": "(Սուրբ Աստուած “ԵՐԵՔՍՐԲԵԱՆ”) ➛➛",
           "translit": "(Soorp Asdvadz “YEREKSRPYAN”) (Holy ➛➛",
-          "en": "God “TRISAGION”) ➛➛"
+          "en": "God “TRISAGION”) ➛➛",
+          "tiers": [
+            "short",
+            "medium",
+            "full"
+          ]
         }
       ]
     }

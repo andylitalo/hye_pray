@@ -2,18 +2,29 @@ import SwiftUI
 
 struct ServiceReaderView: View {
     @Environment(AppState.self) private var appState
-    let service: Service
+    let initialService: Service
 
-    @State private var scrollPosition: String?
+    @State private var displayedService: Service?
+    @State private var scrollToTopTrigger = false
+
+    private var service: Service {
+        displayedService ?? initialService
+    }
 
     private var groupedContent: [(section: Section, chunks: [Chunk])] {
         appState.chunksGroupedBySections(serviceId: service.id)
+    }
+
+    init(service: Service) {
+        self.initialService = service
     }
 
     var body: some View {
         ScrollViewReader { proxy in
             ScrollView {
                 LazyVStack(alignment: .leading, spacing: 0) {
+                    Color.clear.frame(height: 0).id("top")
+
                     serviceHeader
 
                     ForEach(Array(groupedContent.enumerated()), id: \.element.section.id) { _, group in
@@ -27,6 +38,11 @@ struct ServiceReaderView: View {
                     Spacer(minLength: 100)
                 }
                 .padding(.horizontal, 16)
+            }
+            .onChange(of: scrollToTopTrigger) {
+                withAnimation {
+                    proxy.scrollTo("top", anchor: .top)
+                }
             }
         }
         .navigationTitle(service.titleEn)
@@ -107,9 +123,11 @@ struct ServiceReaderView: View {
 
     private var nextServiceButton: some View {
         Button {
-            withAnimation {
-                appState.advanceToNextService()
+            appState.advanceToNextService()
+            if let next = appState.selectedService {
+                displayedService = next
             }
+            scrollToTopTrigger.toggle()
         } label: {
             HStack {
                 VStack(alignment: .leading) {

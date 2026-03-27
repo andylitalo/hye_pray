@@ -8,6 +8,10 @@ struct SidebarView: View {
             todaySection
             allServicesSection
         }
+        .navigationDestination(for: Service.self) { service in
+            ServiceReaderView(service: service)
+                .onAppear { appState.selectService(service) }
+        }
         .navigationTitle("Hye Pray")
         .toolbar {
             ToolbarItem(placement: .primaryAction) {
@@ -23,9 +27,7 @@ struct SidebarView: View {
     private var todaySection: some View {
         SwiftUI.Section("Today's Worship") {
             ForEach(Array(appState.services.enumerated()), id: \.element.id) { index, service in
-                Button {
-                    appState.selectService(service)
-                } label: {
+                NavigationLink(value: service) {
                     HStack(spacing: 12) {
                         Image(systemName: index <= appState.todayServiceIndex ? "checkmark.circle.fill" : "circle")
                             .foregroundStyle(index <= appState.todayServiceIndex ? .green : .secondary)
@@ -40,14 +42,6 @@ struct SidebarView: View {
                                     .font(.caption)
                                     .foregroundStyle(.secondary)
                             }
-                        }
-
-                        Spacer()
-
-                        if service.id == appState.selectedServiceId {
-                            Image(systemName: "chevron.right")
-                                .font(.caption)
-                                .foregroundStyle(.secondary)
                         }
                     }
                     .padding(.vertical, 4)
@@ -73,10 +67,6 @@ struct SidebarView: View {
                     }
                     .padding(.vertical, 2)
                 }
-            }
-            .navigationDestination(for: Service.self) { service in
-                ServiceReaderView(service: service)
-                    .onAppear { appState.selectService(service) }
             }
         }
     }

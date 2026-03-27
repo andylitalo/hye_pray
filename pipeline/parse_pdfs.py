@@ -295,23 +295,29 @@ def parse_pdf(pdf_path: str) -> list[dict]:
 
 
 def assign_abbreviation_tiers(sections: list[dict]) -> None:
-    """Assign abbreviation tiers at the section level.
-    
-    Untagged chunks = always shown (included in short/medium/full).
-    Tagged ["medium","full"] = shown in medium and full only.
-    Tagged ["full"] = shown only in full service.
-    
-    The first ~20% and last ~10% of sections are always shown (opening/closing).
-    Psalm, song, litany sections in the middle get medium/full tags.
+    """Assign abbreviation tiers to every chunk.
+
+    Every chunk gets at least ["full"]. The hierarchy is additive:
+      - "short"  → essential prayers only (opening/closing bookends, core sections)
+      - "medium" → short + middle sections (first ~60% of each section's chunks)
+      - "full"   → everything
+
+    A chunk's tiers list contains all levels at which it should appear.
     """
     n = len(sections)
     if n == 0:
         return
 
-    core_section_keywords = [
+    core_keywords = [
         "opening", "renunciation", "confession", "absolution", "trisagion",
         "preparation", "vesting", "communion", "dismissal", "lord's prayer",
-        "our father", "creed",
+        "our father", "creed", "doxology", "sanctus", "epiklesis",
+        "intercessions",
+    ]
+
+    extended_keywords = [
+        "psalm", "saghmos", "song", "yerk", "litany", "proclamation",
+        "karoz", "bidding",
     ]
 
     for si, section in enumerate(sections):
@@ -320,27 +326,32 @@ def assign_abbreviation_tiers(sections: list[dict]) -> None:
         combined = f"{sec_title_lower} {sec_id_lower}"
         progress = si / max(n - 1, 1)
 
-        is_core_section = any(kw in combined for kw in core_section_keywords)
-        is_bookend = progress < 0.15 or progress > 0.88
+        is_core = any(kw in combined for kw in core_keywords)
+        is_bookend = progress < 0.12 or progress > 0.90
+        is_extended = any(kw in combined for kw in extended_keywords)
 
-        if is_core_section or is_bookend:
-            continue  # all chunks always shown
+        num_chunks = len(section["chunks"])
 
-        is_psalm = "psalm" in combined or "saghmos" in combined
-        is_song = "song" in combined or "yerk" in combined
-        is_litany = "litany" in combined or "proclamation" in combined or "karoz" in combined
-        is_extended = is_psalm or is_song or is_litany
+        for ci, chunk in enumerate(section["chunks"]):
+            chunk_progress = ci / max(num_chunks - 1, 1) if num_chunks > 1 else 0
 
-        for i, chunk in enumerate(section["chunks"]):
-            if chunk["role"] == "rubric":
-                chunk["tiers"] = ["full"]
+            if is_core or is_bookend:
+                if chunk["role"] == "rubric" and num_chunks > 4:
+                    chunk["tiers"] = ["medium", "full"]
+                elif chunk_progress > 0.7 and not is_core:
+                    chunk["tiers"] = ["medium", "full"]
+                else:
+                    chunk["tiers"] = ["short", "medium", "full"]
             elif is_extended:
-                if i < 3:
+                if chunk_progress <= 0.25:
                     chunk["tiers"] = ["medium", "full"]
                 else:
                     chunk["tiers"] = ["full"]
             else:
-                chunk["tiers"] = ["medium", "full"]
+                if chunk_progress <= 0.5:
+                    chunk["tiers"] = ["medium", "full"]
+                else:
+                    chunk["tiers"] = ["full"]
 
 
 SERVICE_CONFIGS = [
